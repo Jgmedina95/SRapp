@@ -1,0 +1,1972 @@
+┌ Info: 2024-05-13 09:51:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 09:51:28 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 09:52:30 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 09:52:31 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 09:53:43 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 09:53:47 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:53:47 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:55:46 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 09:55:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:55:47 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:55:47 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:55:47 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:55:47 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:10 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 09:56:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:30 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 09:56:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-13 10:14:24 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:14:29 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:17:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:17:50 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:31:58 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:32:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:32:09 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 10:33:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:33:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:34:26 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 10:34:27 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 10:35:11 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:35:16 UndefVarError(:maxscore)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 10:37:58 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:38:01 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Warning: 2024-05-13 10:38:17 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:38:17 ArgumentError("range must be non-empty")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 10:38:24 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 10:39:08 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:39:14 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:39:19 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 10:39:20 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 10:40:10 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:40:15 UndefVarError(:maxscore)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 10:40:47 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 10:41:30 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:41:36 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:41:50 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 10:41:51 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 10:43:50 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:43:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 10:43:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 10:43:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 10:43:56 UndefVarError(:maxscore)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 10:43:59 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Warning: 2024-05-13 10:44:17 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:44:19 UndefVarError(:maxscore)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 10:44:54 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 10:45:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:45:44 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:45:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 10:45:50 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 10:46:30 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:46:34 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 10:46:35 UndefVarError(:demo_new_indexes)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 10:47:47 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:47:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:47:52 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 10:48:34 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:48:40 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:48:45 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 10:48:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 10:49:27 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:49:30 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 10:49:31 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-13 10:50:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:50:18 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 10:50:21 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 10:51:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:51:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 10:55:45 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 10:55:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 10:56:38 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 10:56:41 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-13 10:59:59 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:00:03 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:00:04 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:00:47 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:00:53 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:00:58 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:00:59 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:02:08 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:02:12 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:02:12 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-13 11:03:18 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:03:21 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Warning: 2024-05-13 11:03:34 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:03:35 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:03:35 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:03:35 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:03:35 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-13 11:04:59 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:05:02 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:05:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:05:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:05:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:06:09 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:06:10 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:06:53 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:06:58 BoundsError(#undef, #undef)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:07:58 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:08:01 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:08:12 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:08:58 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:09:05 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:09:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:09:13 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:09:52 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:09:56 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:09:57 BoundsError(#undef, #undef)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:11:26 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:12:26 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:12:32 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:12:35 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:12:36 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:13:21 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:13:24 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:13:26 BoundsError(#undef, #undef)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:13:59 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:14:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:14:02 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:14:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:14:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:15:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:15:01 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:15:40 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:15:45 BoundsError(#undef, #undef)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:17:23 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:18:19 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:18:26 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:18:32 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:18:33 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:19:12 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:19:17 BoundsError(#undef, #undef)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:20:08 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:20:58 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:21:05 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:22:26 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:22:27 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:23:07 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:23:09 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:23:13 MethodError(convert, (Int64, [1, 5, 8]), 0x00000000000083b6)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:26:20 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:26:23 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:26:27 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:27:14 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:27:21 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:27:26 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:27:27 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:28:08 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:28:13 DimensionMismatch("array could not be broadcast to match destination")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:30:05 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:30:09 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:30:10 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:30:56 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:31:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:31:07 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:31:08 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:32:04 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:32:07 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:32:10 DimensionMismatch("array could not be broadcast to match destination")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:33:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:33:40 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:33:40 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:34:25 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:34:31 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:34:35 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:34:36 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:35:17 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:35:23 DimensionMismatch("array could not be broadcast to match destination")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:38:43 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:38:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:39:10 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:39:12 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:39:15 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:40:02 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:40:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:40:13 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:40:14 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:40:55 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:40:58 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:40:58 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:40:58 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:40:58 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:41:00 DimensionMismatch("new dimensions (2, -1) must be consistent with array size 6")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:42:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:42:05 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:42:07 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:42:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:42:56 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:43:02 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:43:03 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:43:56 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:44:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:44:02 DimensionMismatch("array could not be broadcast to match destination")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:48:12 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:48:15 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:48:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:49:00 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:49:06 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:49:09 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:49:10 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:50:08 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:50:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:50:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:50:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:50:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:50:14 DimensionMismatch("array could not be broadcast to match destination")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:51:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:51:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:51:34 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:51:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:51:37 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:52:30 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:52:36 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:53:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:53:01 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:53:56 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:53:59 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:53:59 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:54:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:54:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:54:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:54:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:54:02 DimensionMismatch("array could not be broadcast to match destination")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 11:57:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:57:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 11:57:17 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 11:58:01 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:58:08 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 11:58:10 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 11:58:11 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 11:59:08 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 11:59:11 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 11:59:11 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 12:00:18 ArgumentError("number of rows of each array must match (got (2, 3))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:01:11 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:01:14 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:01:15 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:01:57 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:02:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:02:06 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:02:07 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:02:52 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:02:56 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:02:56 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:02:56 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:03:14 ArgumentError("number of rows of each array must match (got (2, 1))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:07:25 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:07:29 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:07:33 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:08:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:08:25 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:08:35 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:08:36 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:09:19 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:09:32 ArgumentError("number of rows of each array must match (got (2, 1))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:13:11 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:13:14 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:13:15 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:14:00 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:14:06 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:14:11 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:14:12 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:14:50 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:15:03 ArgumentError("number of rows of each array must match (got (2, 1))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:38:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:38:44 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:38:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:39:29 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:39:35 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:40:01 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:40:02 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:43:46 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:43:49 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:43:50 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:43:50 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:43:50 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:43:50 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:43:50 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:43:50 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 12:43:56 ArgumentError("number of rows of each array must match (got (2, 1))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:45:55 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:45:58 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:46:01 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:46:45 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:46:51 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:46:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:46:58 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:47:34 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:47:38 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:47:38 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:47:38 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:47:43 MethodError(size, (Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], 2, 9),), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:48:39 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:48:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:48:43 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:49:25 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:49:31 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:49:34 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:49:35 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:50:12 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:50:15 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:50:15 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 12:50:15 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:50:15 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:50:15 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:50:23 ArgumentError("number of rows of each array must match (got (2, 1))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:52:50 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:52:53 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:52:54 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:53:37 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:53:43 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:53:48 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:53:49 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:54:30 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:54:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:54:39 ErrorException("type Array has no field T")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:54:59 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:55:45 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:55:51 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:55:55 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:55:56 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:56:35 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:56:39 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:56:39 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:56:44 ErrorException("type Array has no field T")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 12:56:47 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 12:56:50 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 12:57:36 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:57:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 12:57:48 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 12:57:49 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 12:58:35 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 12:58:39 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:58:39 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:58:39 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 12:58:50 MethodError(Main.SRutils.SRwithConstraints.QBC.addData!, (Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], 2, 9), Float32[2.6239996; 2.989922;;], Float32[0.079435185]), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 13:05:19 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 13:05:23 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 13:05:36 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 13:05:39 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:19:53 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:19:57 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:19:58 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:20:43 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:20:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:20:54 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:20:54 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 15:21:33 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 15:21:47 MethodError(Main.SRutils.SRwithConstraints.QBC.addData!, (Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], 2, 9), Float32[2.6239996 2.989922], Float32[0.079435185]), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 15:23:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:23:40 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:23:44 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:23:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:23:48 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:24:32 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:24:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:25:16 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:25:17 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 15:26:03 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 15:26:07 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:26:07 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-13 15:27:51 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:27:54 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:27:54 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:28:41 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:28:47 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:28:55 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:28:56 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-13 15:29:27 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:29:30 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:29:31 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:30:15 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:30:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:30:52 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:30:53 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 15:32:05 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 15:32:09 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:32:09 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:32:09 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:32:16 ArgumentError("number of rows of each array must match (got (2, 3))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 15:33:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:33:40 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:33:41 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:34:24 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:34:30 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:34:34 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:34:35 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 15:35:16 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 15:35:19 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:35:20 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:35:20 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:35:20 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:35:25 ArgumentError("row insertion with `cols` equal to `:setequal` requires `row` to have the same number of elements as the number of columns in `df`.")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 15:39:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:39:48 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:39:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:40:31 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:40:37 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:40:43 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:40:44 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 15:41:58 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 15:42:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:42:01 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:42:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:42:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:42:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 15:42:08 ArgumentError("row insertion with `cols` equal to `:setequal` requires `row` to have the same number of elements as the number of columns in `df`.")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 15:43:10 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:43:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:43:22 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:44:04 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:44:11 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:44:25 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:44:26 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 15:45:42 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 15:45:52 TypeError(:typeassert, "", Symbol, :var1 => Float32[1.4341167, 2.6239996])
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 15:50:48 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:50:51 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:50:53 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:51:37 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:51:40 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:52:20 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:52:23 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 15:52:28 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:52:29 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-13 15:53:18 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 15:54:02 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:54:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 15:54:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 15:54:12 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 15:54:58 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 15:55:06 TypeError(:typeassert, "", Symbol, :var1 => Float32[1.4341167, 2.6239996])
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 16:01:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:01:21 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:01:22 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 16:02:06 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:02:12 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:02:30 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 16:02:31 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 16:03:13 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 16:03:16 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:03:17 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:03:21 ArgumentError("`DataFrame` constructor from a `Vector` of vectors requires passing :auto as a second argument to automatically generate column names: `DataFrame(vecs, :auto)`")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 16:04:50 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:04:53 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 16:04:54 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:05:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:05:44 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:06:01 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 16:06:02 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 16:06:55 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 16:06:59 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:07:03 ArgumentError("column name :label not found in the data frame")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 16:08:06 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:08:08 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 16:08:10 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:08:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:08:58 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:09:02 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 16:09:03 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 16:10:05 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 16:10:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:10:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:10:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:10:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:10:27 MethodError(getindex, (3×1 DataFrame
+│  Row │ x1
+│      │ Pair…
+│ ─────┼──────────────────────────────────
+│    1 │ :var1=>Float32[2.624, 1.42983]
+│    2 │ :var2=>Float32[2.89322, 2.98992]
+│    3 │ :var3=>Float32[2.85219, 2.87133], !, Genie.Renderer.Html.label), 0x00000000000083dd)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 16:12:32 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:12:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:14:07 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 16:14:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:14:56 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:15:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 16:15:01 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 16:16:05 ArgumentError("number of rows of each array must match (got (2, 10))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 16:18:34 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 16:19:30 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:19:36 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:19:47 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 16:19:47 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 16:20:49 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 16:20:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:20:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:21:00 MethodError(getindex, (3×1 DataFrame
+│  Row │ x1
+│      │ Pair…
+│ ─────┼──────────────────────────────────
+│    1 │ :var1=>Float32[2.57462, 1.42983]
+│    2 │ :var2=>Float32[2.56483, 1.22803]
+│    3 │ :var3=>Float32[2.85219, 1.06637], !, Genie.Renderer.Html.label), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 16:40:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:40:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:41:55 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 16:42:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:42:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:43:02 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 16:43:03 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 16:43:48 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 16:43:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:43:52 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 16:43:52 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 16:43:52 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 16:43:57 ArgumentError("number of rows of each array must match (got (2, 3))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 16:55:41 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:55:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:56:00 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Error: 2024-05-13 16:56:01 NaN not allowed to be written in JSON spec
+│ Stacktrace:
+│   [1] error(s::String)
+│     @ Base ./error.jl:35
+│   [2] #write#90
+│     @ ~/.julia/packages/JSON3/L8Yfy/src/write.jl:283 [inlined]
+│   [3] write
+│     @ ~/.julia/packages/JSON3/L8Yfy/src/write.jl:282 [inlined]
+│   [4] write(::StructTypes.ArrayType, buf::Vector{UInt8}, pos::Int64, len::Int64, x::Matrix{Float32}; kw::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+│     @ JSON3 ~/.julia/packages/JSON3/L8Yfy/src/write.jl:187
+│   [5] write(::StructTypes.ArrayType, buf::Vector{UInt8}, pos::Int64, len::Int64, x::Matrix{Float32})
+│     @ JSON3 ~/.julia/packages/JSON3/L8Yfy/src/write.jl:181
+│   [6] write(::StructTypes.DictType, buf::Vector{UInt8}, pos::Int64, len::Int64, x::Dict{String, Any}; kw::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+│     @ JSON3 ~/.julia/packages/JSON3/L8Yfy/src/write.jl:157
+│   [7] write(::StructTypes.DictType, buf::Vector{UInt8}, pos::Int64, len::Int64, x::Dict{String, Any})
+│     @ JSON3 ~/.julia/packages/JSON3/L8Yfy/src/write.jl:147
+│   [8] write(::StructTypes.DictType, buf::Vector{UInt8}, pos::Int64, len::Int64, x::Dict{Symbol, Any}; kw::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+│     @ JSON3 ~/.julia/packages/JSON3/L8Yfy/src/write.jl:157
+│   [9] write
+│     @ ~/.julia/packages/JSON3/L8Yfy/src/write.jl:147 [inlined]
+│  [10] write(obj::Dict{Symbol, Any}; kw::Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}})
+│     @ JSON3 ~/.julia/packages/JSON3/L8Yfy/src/write.jl:40
+│  [11] write(obj::Dict{Symbol, Any})
+│     @ JSON3 ~/.julia/packages/JSON3/L8Yfy/src/write.jl:37
+│  [12] vue_integration(::Type{Main.App.ReactiveDemo.var"Main.App.ReactiveDemo_ReactiveModel"}; vue_app_name::String, core_theme::Bool, debounce::Int64, transport::Module)
+│     @ Stipple.Elements ~/.julia/packages/Stipple/yMVKL/src/Elements.jl:56
+│  [13] (::Stipple.var"#76#78"{Main.App.ReactiveDemo.var"Main.App.ReactiveDemo_ReactiveModel", String, Int64, Bool, Module})()
+│     @ Stipple ~/.julia/packages/Stipple/yMVKL/src/Stipple.jl:550
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/3gPCR/src/Router.jl:535
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Router ~/.julia/packages/Genie/3gPCR/src/Router.jl:171
+│  [16] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:278
+│  [17] (::Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/macros.jl:123
+│  [18] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [19] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [20] #153
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:425 [inlined]
+│  [21] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/process_messages.jl:70
+│  [22] #remotecall_fetch#158
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:450 [inlined]
+│  [23] remotecall_fetch
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:449 [inlined]
+│  [24] #remotecall_fetch#162
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:492 [inlined]
+│  [25] remotecall_fetch
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:492 [inlined]
+│  [26] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:305
+│  [27] setup_http_listener
+│     @ ~/.julia/packages/Genie/3gPCR/src/Server.jl:304 [inlined]
+│  [28] (::HTTP.Handlers.var"#1#2"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ HTTP.Handlers ~/.julia/packages/HTTP/SN7VW/src/Handlers.jl:58
+│  [29] setup_http_streamer(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:294
+│  [30] (::Genie.Server.var"#7#14")(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:121
+│  [31] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [32] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [33] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│  [34] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#14", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers ./task.jl:484
+│ 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:317
+┌ Info: 2024-05-13 16:56:03 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 16:56:33 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 16:57:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:57:24 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 16:57:29 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 16:57:30 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 16:58:25 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 16:58:29 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 16:58:34 ArgumentError("number of rows of each array must match (got (2, 3))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 17:00:32 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:00:35 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 17:00:35 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:01:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:01:24 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:01:59 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 17:02:00 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 17:03:24 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 17:03:34 MethodError(Main.SRutils.SRwithConstraints.QBC.addData!, (Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.9865513 1.7951349 2.0327744 2.933881 2.5648305 2.3150506 2.7687669 1.4341167 1.7359866; 2.3670156 2.2054586 2.4997005 1.55841 2.0363975 1.0663712 1.6346393 1.7648665 2.3352082 2.151273], Float32[0.09450619, 0.10170062, 0.084287, 0.14628331, 0.106869176, 0.14266416, 0.13430348, 0.11759692, 0.073887706, 0.10663428], 2, 9), Float32[2.6239996 1.4298258 2.8932168; 2.989922 2.8521883 2.8713315], Float32[0.079435185, 0.038156252, 0.08426643]), 0x00000000000083db)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 17:33:57 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:34:01 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:34:04 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 17:34:53 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:34:59 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:35:07 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 17:35:08 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 17:35:48 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 17:35:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 17:35:58 ArgumentError("number of rows of each array must match (got (2, 3))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 17:38:22 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:39:19 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:39:26 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:39:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 17:39:38 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 17:40:14 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 17:40:22 ArgumentError("number of columns of each array must match (got (10, 2))")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 17:43:27 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:43:30 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 17:43:31 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:44:15 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:44:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:44:44 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 17:44:45 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 17:45:22 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 17:45:25 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 17:45:26 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 17:45:31 MethodError(Main.SRutils.SRwithConstraints.QBC.addData!, (Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.4725006 2.0327744 2.8932168 2.3150506 2.6157825 2.9865513 1.4298258 1.8318338 1.4341167 1.7951349; 2.7550933 1.55841 2.8713315 1.6346393 1.7901571 2.2054586 2.8521883 2.3670156 2.3352082 2.4997005], Float32[0.08672661, 0.14628331, 0.08426643, 0.13430348, 0.12067173, 0.10170062, 0.038156252, 0.09450619, 0.073887706, 0.084287], 2, 9), Float32[2.5648305 2.5746245 2.0418222; 1.0663712 1.2280266 1.4022493], Float32[0.14266416, 0.13829117, 0.15433906]), 0x00000000000083db)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 17:48:50 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:48:53 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:49:55 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 17:50:41 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:50:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:51:02 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 17:51:03 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 17:51:45 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 17:51:54 MethodError(Main.SRutils.SRwithConstraints.QBC.addData!, (Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.9865513 1.7951349 2.0327744 2.933881 2.5648305 2.3150506 2.7687669 1.4341167 1.7359866; 2.3670156 2.2054586 2.4997005 1.55841 2.0363975 1.0663712 1.6346393 1.7648665 2.3352082 2.151273], Float32[0.09450619, 0.10170062, 0.084287, 0.14628331, 0.106869176, 0.14266416, 0.13430348, 0.11759692, 0.073887706, 0.10663428], 2, 9), Float32[2.6239996 1.4298258 2.8932168; 2.989922 2.8521883 2.8713315], Float32[0.079435185, 0.038156252, 0.08426643]), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 17:58:31 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:58:35 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 17:58:38 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 17:59:23 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:59:29 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 17:59:39 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 17:59:40 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 18:00:45 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 18:00:49 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-13 18:01:06 MethodError(Main.SRutils.SRwithConstraints.QBC.addData!, (Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], 2, 9), Float32[1.4341167 2.6239996 2.8932168; 2.3352082 2.989922 2.8713315], Float32[0.073887706, 0.079435185, 0.08426643]), 0x00000000000083db)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 18:01:57 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 18:02:00 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 18:02:00 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 18:02:44 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 18:02:50 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 18:03:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 18:03:39 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 18:04:15 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 18:04:24 MethodError(getindex, (3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼────────────────────────────
+│    1 │ 2.56483  1.06637  15.0937
+│    2 │ 2.57462  1.22803  12.446
+│    3 │ 1.42983  2.85219   9.35657, !, Genie.Renderer.Html.label), 0x00000000000083db)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 20:40:07 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 20:40:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 20:40:15 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 20:40:58 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:41:04 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:41:18 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 20:41:19 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 20:42:17 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 20:42:21 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 20:42:28 MethodError(setindex!, (2×2 DataFrame
+│  Row │ first   second
+│      │ Symbol  Array…
+│ ─────┼───────────────────────────────────────────
+│    1 │ var1    Float32[2.624, 2.89322, 1.42983]
+│    2 │ var2    Float32[2.98992, 2.87133, 2.8521…, Float32[0.079435185, 0.08426643, 0.038156252], !, Genie.Renderer.Html.label), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 20:43:31 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 20:43:34 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 20:43:35 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 20:44:16 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:44:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:44:27 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 20:44:27 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 20:45:06 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 20:45:10 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 20:45:10 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 20:45:43 MethodError(setindex!, (3×2 DataFrame
+│  Row │ var1     var2
+│      │ Float32  Float32
+│ ─────┼──────────────────
+│    1 │ 1.42983  2.85219
+│    2 │ 2.624    2.98992
+│    3 │ 2.89322  2.87133, Float32[0.038156252, 0.079435185, 0.08426643], !, Genie.Renderer.Html.label), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 20:47:00 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 20:47:04 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 20:47:04 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 20:47:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:47:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:47:59 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 20:47:59 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 20:49:09 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 20:49:12 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 20:49:34 UndefVarError(:adding_nt)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 20:56:09 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 20:56:11 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 20:56:56 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:57:02 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 20:58:47 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 20:58:48 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 20:59:33 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 20:59:35 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 20:59:42 ArgumentError("it is not allowed to insert collections of type DataFrames.DataFrame into a DataFrame. Only `Tuple`, `AbstractArray`, `AbstractDict`, `DataFrameRow` and `NamedTuple` are allowed.")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:00:36 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:01:21 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:01:27 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:01:32 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:01:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:02:29 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:02:38 ArgumentError("it is not allowed to insert collections of type DataFrames.DataFrame into a DataFrame. Only `Tuple`, `AbstractArray`, `AbstractDict`, `DataFrameRow` and `NamedTuple` are allowed.")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:02:43 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:02:47 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:05:51 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:05:55 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:05:55 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:06:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:06:41 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:07:43 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:07:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:08:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:08:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:08:53 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:08:54 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:09:29 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:09:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:09:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:09:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:09:39 UndefVarError(:Status)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:10:54 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:10:57 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:11:03 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:11:47 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:11:54 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:11:58 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:11:58 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:12:39 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:12:43 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:12:43 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Error: 2024-05-13 21:12:50 Error adding value to column :var1. Maybe you forgot passing `promote=true`?
+└ @ DataFrames /Users/jorgemedina/.julia/packages/DataFrames/58MUJ/src/dataframe/insertion.jl:981
+┌ Warning: 2024-05-13 21:12:50 MethodError(convert, (Float32, Float32[2.6239996, 2.8932168, 1.4298258]), 0x00000000000083dd)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:15:27 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:15:31 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:15:48 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:16:31 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:16:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:16:45 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:16:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:17:52 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:17:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:17:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:17:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:17:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Error: 2024-05-13 21:18:03 Error adding value to column :var1. Maybe you forgot passing `promote=true`?
+└ @ DataFrames /Users/jorgemedina/.julia/packages/DataFrames/58MUJ/src/dataframe/insertion.jl:697
+┌ Warning: 2024-05-13 21:18:03 MethodError(convert, (Float32, Float32[2.5648305, 2.5746245, 2.6239996]), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Error: 2024-05-13 21:18:03 KeyError("IHHRLONDPHKRYABLAKFEHTVPCRAIHDPD")
+└ @ Genie.WebChannels /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/WebChannels.jl:246
+┌ Info: 2024-05-13 21:20:47 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:20:50 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:21:32 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:21:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:21:41 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:21:42 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:22:57 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:23:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:23:05 ArgumentError("column(s) 1, 2, 3 and 4 are missing from argument(s) 1, and column(s) var1, var2, label and Status are missing from argument(s) 2")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:23:53 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:23:56 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:23:56 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:24:50 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:24:57 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:25:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:25:00 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:25:53 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:25:56 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:26:09 ArgumentError("'Tuple{Vector{Float32}, Vector{Float32}, Vector{Float32}, String}' iterates 'Vector{Float32}' values, which doesn't satisfy the Tables.jl `AbstractRow` interface")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:26:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:26:49 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:26:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:27:33 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:27:40 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:27:43 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:27:44 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:28:50 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:29:03 MethodError(NamedTuple, (:var1 => Float32[2.6239996, 2.8932168, 1.4298258], :var2 => Float32[2.989922, 2.8713315, 2.8521883]), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:31:43 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:31:47 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:31:47 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:32:31 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:32:37 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:32:40 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:32:40 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:33:43 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:33:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:33:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:33:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:33:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:33:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:33:53 MethodError(NamedTuple, (:var1 => Float32[2.6239996, 2.2937846, 2.4725006], :var2 => Float32[2.989922, 2.8280172, 2.7550933]), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:34:34 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:34:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:34:37 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:35:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:35:25 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:35:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:35:51 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:36:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:36:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:36:59 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:37:00 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:37:55 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:37:58 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:38:06 ErrorException("type Array has no field first")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:40:24 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:40:27 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:40:29 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:41:11 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:41:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:41:21 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:41:21 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:42:06 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:42:09 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 21:42:15 ErrorException("type Array has no field f")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:54:29 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:54:34 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:54:39 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:55:32 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:55:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:56:59 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:57:05 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:57:25 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 21:57:25 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 21:58:04 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 21:58:13 MethodError(merge, (Base.Generator{UnitRange{Int64}, Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}(Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}(Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"("IQBNOFVPIEPPPXNJAYVXSWGRUKKQRPNZ", LittleDict{Symbol, Int64, Vector{Symbol}, Vector{Int64}}(), Reactive{Bool}(Observable(true), 1, false, false, ""), Reactive{Bool}(Observable(false), 1, false, false, ""), Reactive{Bool}(Observable(false), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:194"), Reactive{String}(Observable("I.6.2short"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:195"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:196"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:197"), Reactive{Vector{Any}}(Observable(Any[]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:198"), Reactive{Int64}(Observable(3), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:199"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:244"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:201"), Reactive{String}(Observable("0.108585805\n(0.222651 / x2)\nsin(0.22324803 / x2)\n((0.18593436 / x2) - -0.018814333)\n((-0.12243905 / (x2 + sin(cos(sin(x1))))) * -2.4910936)\n((-0.2635869 / (x2 + sin(cos(sin(sin(x1)))))) * -1.1721777)\n((-0.18112148 / (x2 + cos(cos(cos(x2 / -0.31497934))))) * -1.6665682)\nsin((-0.18112148 / (x2 + cos(cos(cos(-0.31134033 + x1))))) * -1.6665682)\n((-0.18112148 / (x2 + sin(sin(cos(sin(cos(x1 + (-0.80661106 + x1)))))))) * -1.6665682)"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:202"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:203"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:204"), Reactive{Vector{String}}(Observable(["Symmetry", "Divergency Type I", "Divergency Type II"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:205"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("searchspace" => Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.2937846 2.8280172; 1.8318338 2.3670156; 2.933881 2.0363975; 2.0327744 1.55841; 1.7951349 2.4997005; 1.4341167 2.3352082], Float32[0.08133586, 0.09450619, 0.106869176, 0.14628331, 0.084287, 0.073887706], 2, 6), "use_physical_constraints" => false, "stateReturn" => false, "const_loss" => nothing, "binary_operators" => ["+", "-", "*", "/"], "npopulations" => 10, "loss" => LossFunctions.L2DistLoss(), "niterations" => 10, "header" => false, "disagreement_measure" => "IBMD", "filename" => "", "unary_operators" => ["sin", "cos", "exp", "log"], "split" => 0.1)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:206"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("var1" => Float32[2.428876, 2.6239996, 2.8932168, 2.3150506, 2.6157825, 2.4725006, 2.7687669, 1.7359866, 2.0418222, 2.9865513], "label" => Float32[0.10018355, 0.079435185, 0.08426643, 0.13430348, 0.12067173, 0.08672661, 0.11759692, 0.10663428, 0.15433906, 0.10170062], "var2" => Float32[2.4151974, 2.989922, 2.8713315, 1.6346393, 1.7901571, 2.7550933, 1.7648665, 2.151273, 1.4022493, 2.2054586])), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:207"), Reactive{Vector{Any}}(Observable(Any[]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:210"), Reactive{LossFunctions.L2DistLoss}(Observable(LossFunctions.L2DistLoss()), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:211"), Reactive{String}(Observable("None"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:212"), Reactive{String}(Observable("L2DistLoss"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:213"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:214"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:215"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:216"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:217"), Reactive{Int64}(Observable(100), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:218"), Reactive{Float64}(Observable(0.0), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:219"), Reactive{Float64}(Observable(0.1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:220"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:221"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:222"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:223"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:224"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:225"), Reactive{Vector{Int64}}(Observable([6, 2, 1]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:227"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:228"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:229"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.2937846 2.8280172; 1.8318338 2.3670156; 2.933881 2.0363975; 2.0327744 1.55841; 1.7951349 2.4997005; 1.4341167 2.3352082], Float32[0.08133586, 0.09450619, 0.106869176, 0.14628331, 0.084287, 0.073887706], 2, 6)), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:230"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:231"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:232"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:233"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:234"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:235"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:236"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:237"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:238"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:239"), Reactive{Vector{Int64}}(Observable([17, 9, 2, 3, 14, 7, 12, 11, 13, 18]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:240"), Reactive{Vector{Float32}}(Observable(Float32[0.14266416, 0.13829117, 0.038156252]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:241"), Reactive{Matrix{Float32}}(Observable(Float32[2.5648305 1.0663712; 2.5746245 1.2280266; 1.4298258 2.8521883]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:242"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:243"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:245"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:246"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:247"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:269"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:249"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:250"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:251"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:252"), Reactive{Vector{Float64}}(Observable([8.009207346476614, 6.1783578941831365, 4.791644698241726]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:253"), Reactive{DataFrames.DataFrame}(Observable(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.56483  1.06637  8.00921
+│    2 │ 2.57462  1.22803  6.17836
+│    3 │ 1.42983  2.85219  4.79164), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:254"), Reactive{DataFrames.DataFrame}(Observable(0×4 DataFrame
+│  Row │ var1     var2     label    Status
+│      │ Float32  Float32  Float32  String
+│ ─────┴───────────────────────────────────), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:255"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.56483  1.06637  8.00921
+│    2 │ 2.57462  1.22803  6.17836
+│    3 │ 1.42983  2.85219  4.79164, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:256"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(0×0 DataFrame, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:257"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(9×2 DataFrame
+│  Row │ losses       members
+│      │ Float32      String
+│ ─────┼────────────────────────────────────────────────
+│    1 │ 0.000502286  0.108585805
+│    2 │ 2.89536e-5   (0.222651 / x2)
+│    3 │ 2.8025e-5    sin(0.22324803 / x2)
+│    4 │ 8.50979e-6   ((0.18593436 / x2) - -0.01881433…
+│    5 │ 7.97365e-6   ((-0.12243905 / (x2 + sin(cos(si…
+│    6 │ 6.48698e-6   ((-0.2635869 / (x2 + sin(cos(sin…
+│    7 │ 4.50535e-6   ((-0.18112148 / (x2 + cos(cos(co…
+│    8 │ 4.41892e-6   sin((-0.18112148 / (x2 + cos(cos…
+│    9 │ 3.60247e-6   ((-0.18112148 / (x2 + sin(sin(co…, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:258"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Matrix{Float32}(undef, 0, 0), Float32[], 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:259"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.428876 2.6239996 2.8932168 2.3150506 2.6157825 2.4725006 2.7687669 1.7359866 2.0418222 2.9865513 2.5648305 2.5746245 1.4298258; 2.4151974 2.989922 2.8713315 1.6346393 1.7901571 2.7550933 1.7648665 2.151273 1.4022493 2.2054586 1.0663712 1.2280266 2.8521883], Float32[0.10018355, 0.079435185, 0.08426643, 0.13430348, 0.12067173, 0.08672661, 0.11759692, 0.10663428, 0.15433906, 0.10170062, 0.14266416, 0.13829117, 0.038156252], 2, 12)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:260"), Reactive{Vector{PlotlyBase.GenericTrace{Dict{Symbol, Any}}}}(Observable(PlotlyBase.GenericTrace{Dict{Symbol, Any}}[PlotlyBase.GenericTrace{Dict{Symbol, Any}}(Dict{Symbol, Any}(:mode => "markers", :y => Float32[0.17560564, 0.105887555, 0.1014974, 0.048825253, 0.017237354, 0.1369374, 0.080412224, 0.06271337, 0.046375465], :type => "scatter", :x => [8.009207346476614, 4.791644698241726, 4.286900101025822, 2.7552625209791586, 1.0160331466369144, 6.1783578941831365, 2.9442614109721035, 3.3726498648757115, 2.7008972300682217]))]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:264"), Reactive{PlotlyBase.Layout{Dict{Symbol, Any}}}(Observable(PlotlyBase.Layout{Dict{Symbol, Any}}(Dict{Symbol, Any}(:template => PlotlyBase.Template
+│   data: Dict{Symbol, Vector{PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}}}
+│   layout: PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}
+│ , :height => 500, :margin => Dict(:l => 20, :b => 20, :r => 20, :t => 45), :title => "Disagreement Measures: IBMD vs Standard Deviation", :width => 500), PlotlyBase.Subplots
+│   rows: Int64 1
+│   cols: Int64 1
+│   shared_xaxes: Bool false
+│   shared_yaxes: Bool false
+│   start_cell: String "top-left"
+│   subplot_titles: Missing missing
+│   column_widths: Missing missing
+│   row_heights: Missing missing
+│   specs: Array{PlotlyBase.Spec}((1, 1))
+│   insets: Missing missing
+│   column_titles: Missing missing
+│   row_titles: Missing missing
+│   x_title: Missing missing
+│   y_title: Missing missing
+│   grid_ref: Array{Vector{PlotlyBase.SubplotRef}}((1, 1))
+│   has_secondary_y: Bool false
+│   horizontal_spacing: Float64 0.2
+│   vertical_spacing: Float64 0.3
+│   max_width: Float64 1.0
+│   _widths: Array{Float64}((1,)) [1.0]
+│   _heights: Array{Float64}((1,)) [1.0]
+│ )), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:265"), Reactive{DataFrames.DataFrame}(Observable(0×0 DataFrame), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:267"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:268"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(10×3 DataFrame
+│  Row │ label      var1     var2
+│      │ Float32    Float32  Float32
+│ ─────┼─────────────────────────────
+│    1 │ 0.100184   2.42888  2.4152
+│    2 │ 0.0794352  2.624    2.98992
+│    3 │ 0.0842664  2.89322  2.87133
+│    4 │ 0.134303   2.31505  1.63464
+│    5 │ 0.120672   2.61578  1.79016
+│    6 │ 0.0867266  2.4725   2.75509
+│    7 │ 0.117597   2.76877  1.76487
+│    8 │ 0.106634   1.73599  2.15127
+│    9 │ 0.154339   2.04182  1.40225
+│   10 │ 0.101701   2.98655  2.20546, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:270"), Reactive{Vector{String}}(Observable(["I.11.19", "I.16.6", "I.6.2", "I.6.2a", "I.6.2short"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:271"), Reactive{String}(Observable("Select a file"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:274"), Reactive{String}(Observable(""), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:275"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:276"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:277"), Reactive{Int64}(Observable(1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:278"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:279"), Reactive{String}(Observable("demofiles/I.6.2short"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:280"), Reactive{Vector{Float64}}(Observable(Float64[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:281"), Reactive{Matrix{Float64}}(Observable(Matrix{Float64}(undef, 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:282"))), 1:2), (label = Float32[0.14266416, 0.13829117, 0.038156252], Status = "AcceptedAcceptedAccepted")), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 21:59:05 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:59:07 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 21:59:08 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 21:59:51 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 21:59:58 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 22:00:01 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 22:00:02 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 22:00:42 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 22:00:51 MethodError(merge, (Base.Generator{UnitRange{Int64}, Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}(Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}(Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"("IQBNOFVPIEPPPXNJAYVXSWGRUKKQRPNZ", LittleDict{Symbol, Int64, Vector{Symbol}, Vector{Int64}}(), Reactive{Bool}(Observable(true), 1, false, false, ""), Reactive{Bool}(Observable(false), 1, false, false, ""), Reactive{Bool}(Observable(false), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:194"), Reactive{String}(Observable("I.6.2short"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:195"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:196"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:197"), Reactive{Vector{Any}}(Observable(Any[]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:198"), Reactive{Int64}(Observable(3), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:199"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:244"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:201"), Reactive{String}(Observable("0.10858476\n(0.22265448 / x2)\nsin(0.223249 / x2)\n(0.2692284 / (x2 - -0.38968924))\n(0.2511807 / (((0.1799831 / x2) * x1) + x2))\n(0.2511807 / ((sin(0.1799831 / x2) * x1) + x2))\n(0.2533734 / ((x2 + -0.39179927) + sin(cos(cos(x2 - x1)))))"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:202"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:203"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:204"), Reactive{Vector{String}}(Observable(["Symmetry", "Divergency Type I", "Divergency Type II"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:205"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("searchspace" => Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.2937846 2.8280172; 1.8318338 2.3670156; 2.933881 2.0363975; 2.0327744 1.55841; 1.7951349 2.4997005; 1.4341167 2.3352082], Float32[0.08133586, 0.09450619, 0.106869176, 0.14628331, 0.084287, 0.073887706], 2, 6), "use_physical_constraints" => false, "stateReturn" => false, "const_loss" => nothing, "binary_operators" => ["+", "-", "*", "/"], "npopulations" => 10, "loss" => LossFunctions.L2DistLoss(), "niterations" => 10, "header" => false, "disagreement_measure" => "IBMD", "filename" => "", "unary_operators" => ["sin", "cos", "exp", "log"], "split" => 0.1)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:206"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("var1" => Float32[2.428876, 2.6239996, 2.8932168, 2.3150506, 2.6157825, 2.4725006, 2.7687669, 1.7359866, 2.0418222, 2.9865513], "label" => Float32[0.10018355, 0.079435185, 0.08426643, 0.13430348, 0.12067173, 0.08672661, 0.11759692, 0.10663428, 0.15433906, 0.10170062], "var2" => Float32[2.4151974, 2.989922, 2.8713315, 1.6346393, 1.7901571, 2.7550933, 1.7648665, 2.151273, 1.4022493, 2.2054586])), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:207"), Reactive{Vector{Any}}(Observable(Any[]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:210"), Reactive{LossFunctions.L2DistLoss}(Observable(LossFunctions.L2DistLoss()), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:211"), Reactive{String}(Observable("None"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:212"), Reactive{String}(Observable("L2DistLoss"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:213"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:214"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:215"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:216"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:217"), Reactive{Int64}(Observable(100), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:218"), Reactive{Float64}(Observable(0.0), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:219"), Reactive{Float64}(Observable(0.1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:220"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:221"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:222"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:223"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:224"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:225"), Reactive{Vector{Int64}}(Observable([6, 2, 1]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:227"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:228"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:229"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.2937846 2.8280172; 1.8318338 2.3670156; 2.933881 2.0363975; 2.0327744 1.55841; 1.7951349 2.4997005; 1.4341167 2.3352082], Float32[0.08133586, 0.09450619, 0.106869176, 0.14628331, 0.084287, 0.073887706], 2, 6)), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:230"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:231"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:232"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:233"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:234"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:235"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:236"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:237"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:238"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:239"), Reactive{Vector{Int64}}(Observable([17, 9, 2, 3, 14, 7, 12, 11, 13, 18]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:240"), Reactive{Vector{Float32}}(Observable(Float32[0.14266416, 0.13829117, 0.038156252]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:241"), Reactive{Matrix{Float32}}(Observable(Float32[2.5648305 1.0663712; 2.5746245 1.2280266; 1.4298258 2.8521883]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:242"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:243"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:245"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:246"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:247"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:269"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:249"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:250"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:251"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:252"), Reactive{Vector{Float64}}(Observable([5.190603348426521, 4.287249305518344, 3.0852177556480456]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:253"), Reactive{DataFrames.DataFrame}(Observable(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.56483  1.06637  5.1906
+│    2 │ 2.57462  1.22803  4.28725
+│    3 │ 1.42983  2.85219  3.08522), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:254"), Reactive{DataFrames.DataFrame}(Observable(0×4 DataFrame
+│  Row │ var1     var2     label    Status
+│      │ Float32  Float32  Float32  String
+│ ─────┴───────────────────────────────────), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:255"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.56483  1.06637  5.1906
+│    2 │ 2.57462  1.22803  4.28725
+│    3 │ 1.42983  2.85219  3.08522, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:256"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(0×0 DataFrame, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:257"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(7×2 DataFrame
+│  Row │ losses       members
+│      │ Float32      String
+│ ─────┼────────────────────────────────────────────────
+│    1 │ 0.000502286  0.10858476
+│    2 │ 2.89536e-5   (0.22265448 / x2)
+│    3 │ 2.8025e-5    sin(0.223249 / x2)
+│    4 │ 1.07167e-5   (0.2692284 / (x2 - -0.38968924))
+│    5 │ 6.67892e-6   (0.2511807 / (((0.1799831 / x2) …
+│    6 │ 6.6644e-6    (0.2511807 / ((sin(0.1799831 / x…
+│    7 │ 8.33298e-7   (0.2533734 / ((x2 + -0.39179927)…, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:258"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Matrix{Float32}(undef, 0, 0), Float32[], 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:259"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.428876 2.6239996 2.8932168 2.3150506 2.6157825 2.4725006 2.7687669 1.7359866 2.0418222 2.9865513 2.5648305 2.5746245 1.4298258; 2.4151974 2.989922 2.8713315 1.6346393 1.7901571 2.7550933 1.7648665 2.151273 1.4022493 2.2054586 1.0663712 1.2280266 2.8521883], Float32[0.10018355, 0.079435185, 0.08426643, 0.13430348, 0.12067173, 0.08672661, 0.11759692, 0.10663428, 0.15433906, 0.10170062, 0.14266416, 0.13829117, 0.038156252], 2, 12)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:260"), Reactive{Vector{PlotlyBase.GenericTrace{Dict{Symbol, Any}}}}(Observable(PlotlyBase.GenericTrace{Dict{Symbol, Any}}[PlotlyBase.GenericTrace{Dict{Symbol, Any}}(Dict{Symbol, Any}(:mode => "markers", :y => Float32[0.19539006, 0.12883458, 0.11928783, 0.04965646, 0.011182498, 0.15577932, 0.09198908, 0.07073104, 0.051393744], :type => "scatter", :x => [5.190603348426521, 3.0852177556480456, 2.6443761553164222, 1.5460909926405293, 0.36265476935659535, 4.287249305518344, 2.219182539382018, 1.9949796321961912, 1.664622064854484]))]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:264"), Reactive{PlotlyBase.Layout{Dict{Symbol, Any}}}(Observable(PlotlyBase.Layout{Dict{Symbol, Any}}(Dict{Symbol, Any}(:template => PlotlyBase.Template
+│   data: Dict{Symbol, Vector{PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}}}
+│   layout: PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}
+│ , :height => 500, :margin => Dict(:l => 20, :b => 20, :r => 20, :t => 45), :title => "Disagreement Measures: IBMD vs Standard Deviation", :width => 500), PlotlyBase.Subplots
+│   rows: Int64 1
+│   cols: Int64 1
+│   shared_xaxes: Bool false
+│   shared_yaxes: Bool false
+│   start_cell: String "top-left"
+│   subplot_titles: Missing missing
+│   column_widths: Missing missing
+│   row_heights: Missing missing
+│   specs: Array{PlotlyBase.Spec}((1, 1))
+│   insets: Missing missing
+│   column_titles: Missing missing
+│   row_titles: Missing missing
+│   x_title: Missing missing
+│   y_title: Missing missing
+│   grid_ref: Array{Vector{PlotlyBase.SubplotRef}}((1, 1))
+│   has_secondary_y: Bool false
+│   horizontal_spacing: Float64 0.2
+│   vertical_spacing: Float64 0.3
+│   max_width: Float64 1.0
+│   _widths: Array{Float64}((1,)) [1.0]
+│   _heights: Array{Float64}((1,)) [1.0]
+│ )), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:265"), Reactive{DataFrames.DataFrame}(Observable(0×0 DataFrame), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:267"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:268"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(10×3 DataFrame
+│  Row │ label      var1     var2
+│      │ Float32    Float32  Float32
+│ ─────┼─────────────────────────────
+│    1 │ 0.100184   2.42888  2.4152
+│    2 │ 0.0794352  2.624    2.98992
+│    3 │ 0.0842664  2.89322  2.87133
+│    4 │ 0.134303   2.31505  1.63464
+│    5 │ 0.120672   2.61578  1.79016
+│    6 │ 0.0867266  2.4725   2.75509
+│    7 │ 0.117597   2.76877  1.76487
+│    8 │ 0.106634   1.73599  2.15127
+│    9 │ 0.154339   2.04182  1.40225
+│   10 │ 0.101701   2.98655  2.20546, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:270"), Reactive{Vector{String}}(Observable(["I.11.19", "I.16.6", "I.6.2", "I.6.2a", "I.6.2short"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:271"), Reactive{String}(Observable("Select a file"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:274"), Reactive{String}(Observable(""), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:275"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:276"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:277"), Reactive{Int64}(Observable(1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:278"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:279"), Reactive{String}(Observable("demofiles/I.6.2short"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:280"), Reactive{Vector{Float64}}(Observable(Float64[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:281"), Reactive{Matrix{Float64}}(Observable(Matrix{Float64}(undef, 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:282"))), 1:2), (label = Float32[0.14266416, 0.13829117, 0.038156252], Status = "Accepted")), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 22:02:01 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-13 22:02:45 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 22:02:51 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-13 22:02:56 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-13 22:02:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-13 22:03:51 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-13 22:03:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 22:03:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-13 22:03:59 MethodError(merge, (Base.Generator{UnitRange{Int64}, Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}(Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}(Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"("IHHRLONDPHKRYABLAKFEHTVPCRAIHDPD", LittleDict{Symbol, Int64, Vector{Symbol}, Vector{Int64}}(), Reactive{Bool}(Observable(true), 1, false, false, ""), Reactive{Bool}(Observable(false), 1, false, false, ""), Reactive{Bool}(Observable(false), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:194"), Reactive{String}(Observable("I.6.2short"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:195"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:196"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:197"), Reactive{Vector{Any}}(Observable(Any[]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:198"), Reactive{Int64}(Observable(3), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:199"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:244"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:201"), Reactive{String}(Observable("0.11087329\n(sin(x2) * 0.13219224)\n(cos(log(x2)) * 0.14463691)\n(cos(log(x2)) * sin(0.14463691))\n(cos(cos(x2 * 1.2373072)) * 0.1548549)\n(sin(sin(sin(exp(cos(x2))))) / 4.9617686)\n((cos(cos(x2 / 0.8155839)) - -0.037473734) / 6.974846)\n(sin(exp(cos(x2))) / (exp(exp(x2 * -0.15180627) * 2.0769448) + 0.9942249))\nsin(cos(sin((x2 + -0.15331513) - sin(exp(cos(x2 / x1))))) * 0.1548549)\nsin(cos(sin((x2 + -0.15331513) - sin(exp(sin(cos(x2 / x1)))))) * 0.1548549)\n(cos(sin(((x2 + -0.15331513) - sin(sin(x2 / x1) * x2)) - 0.06801608)) * 0.1548549)\n(sin(sin(exp(cos(x2)))) / exp(exp(sin(x1 / (x2 - log(x2))) * -0.24871565) * 2.0769448))"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:202"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:203"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:204"), Reactive{Vector{String}}(Observable(["Symmetry", "Divergency Type I", "Divergency Type II"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:205"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("searchspace" => Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.2937846 2.8280172; 2.4725006 2.7550933; 2.5746245 1.2280266; 2.0418222 1.4022493; 2.6157825 1.7901571; 2.428876 2.4151974], Float32[0.08133586, 0.08672661, 0.13829117, 0.15433906, 0.12067173, 0.10018355], 2, 6), "use_physical_constraints" => false, "stateReturn" => false, "const_loss" => nothing, "binary_operators" => ["+", "-", "*", "/"], "npopulations" => 10, "loss" => LossFunctions.L2DistLoss(), "niterations" => 10, "header" => false, "disagreement_measure" => "IBMD", "filename" => "", "unary_operators" => ["sin", "cos", "exp", "log"], "split" => 0.1)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:206"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("var1" => Float32[1.8318338, 2.9865513, 1.7951349, 2.0327744, 2.933881, 2.5648305, 2.3150506, 2.7687669, 1.4341167, 1.7359866], "label" => Float32[0.09450619, 0.10170062, 0.084287, 0.14628331, 0.106869176, 0.14266416, 0.13430348, 0.11759692, 0.073887706, 0.10663428], "var2" => Float32[2.3670156, 2.2054586, 2.4997005, 1.55841, 2.0363975, 1.0663712, 1.6346393, 1.7648665, 2.3352082, 2.151273])), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:207"), Reactive{Vector{Any}}(Observable(Any[]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:210"), Reactive{LossFunctions.L2DistLoss}(Observable(LossFunctions.L2DistLoss()), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:211"), Reactive{String}(Observable("None"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:212"), Reactive{String}(Observable("L2DistLoss"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:213"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:214"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:215"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:216"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:217"), Reactive{Int64}(Observable(100), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:218"), Reactive{Float64}(Observable(0.0), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:219"), Reactive{Float64}(Observable(0.1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:220"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:221"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:222"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:223"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:224"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:225"), Reactive{Vector{Int64}}(Observable([5, 2, 1]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:227"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:228"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:229"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.2937846 2.8280172; 2.4725006 2.7550933; 2.5746245 1.2280266; 2.0418222 1.4022493; 2.6157825 1.7901571; 2.428876 2.4151974], Float32[0.08133586, 0.08672661, 0.13829117, 0.15433906, 0.12067173, 0.10018355], 2, 6)), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:230"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:231"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:232"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:233"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:234"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:235"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:236"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:237"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:238"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:239"), Reactive{Vector{Int64}}(Observable([6, 18, 16, 15, 8, 1, 3, 12, 19, 11]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:240"), Reactive{Vector{Float32}}(Observable(Float32[0.079435185, 0.038156252, 0.08426643]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:241"), Reactive{Matrix{Float32}}(Observable(Float32[2.6239996 2.989922; 1.4298258 2.8521883; 2.8932168 2.8713315]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:242"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:243"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:245"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:246"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:247"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:269"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:249"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:250"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:251"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:252"), Reactive{Vector{Float64}}(Observable([23.82070036273217, 20.04163888457697, 18.069638362852857]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:253"), Reactive{DataFrames.DataFrame}(Observable(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.624    2.98992  23.8207
+│    2 │ 1.42983  2.85219  20.0416
+│    3 │ 2.89322  2.87133  18.0696), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:254"), Reactive{DataFrames.DataFrame}(Observable(0×4 DataFrame
+│  Row │ var1     var2     label    Status
+│      │ Float32  Float32  Float32  String
+│ ─────┴───────────────────────────────────), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:255"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.624    2.98992  23.8207
+│    2 │ 1.42983  2.85219  20.0416
+│    3 │ 2.89322  2.87133  18.0696, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:256"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(0×0 DataFrame, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:257"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(12×2 DataFrame
+│  Row │ losses       members
+│      │ Float32      String
+│ ─────┼────────────────────────────────────────────────
+│    1 │ 0.00053195   0.11087329
+│    2 │ 0.000173528  (sin(x2) * 0.13219224)
+│    3 │ 8.14075e-5   (cos(log(x2)) * 0.14463691)
+│    4 │ 8.13594e-5   (cos(log(x2)) * sin(0.14463691))
+│    5 │ 6.3197e-5    (cos(cos(x2 * 1.2373072)) * 0.15…
+│    6 │ 5.57688e-5   (sin(sin(sin(exp(cos(x2))))) / 4…
+│    7 │ 5.27968e-5   ((cos(cos(x2 / 0.8155839)) - -0.…
+│    8 │ 5.08122e-5   (sin(exp(cos(x2))) / (exp(exp(x2…
+│    9 │ 4.97474e-5   sin(cos(sin((x2 + -0.15331513) -…
+│   10 │ 4.21297e-5   sin(cos(sin((x2 + -0.15331513) -…
+│   11 │ 3.9241e-5    (cos(sin(((x2 + -0.15331513) - s…
+│   12 │ 3.47536e-5   (sin(sin(exp(cos(x2)))) / exp(ex…, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:258"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Matrix{Float32}(undef, 0, 0), Float32[], 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:259"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.9865513 1.7951349 2.0327744 2.933881 2.5648305 2.3150506 2.7687669 1.4341167 1.7359866 2.6239996 1.4298258 2.8932168; 2.3670156 2.2054586 2.4997005 1.55841 2.0363975 1.0663712 1.6346393 1.7648665 2.3352082 2.151273 2.989922 2.8521883 2.8713315], Float32[0.09450619, 0.10170062, 0.084287, 0.14628331, 0.106869176, 0.14266416, 0.13430348, 0.11759692, 0.073887706, 0.10663428, 0.079435185, 0.038156252, 0.08426643], 2, 12)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:260"), Reactive{Vector{PlotlyBase.GenericTrace{Dict{Symbol, Any}}}}(Observable(PlotlyBase.GenericTrace{Dict{Symbol, Any}}[PlotlyBase.GenericTrace{Dict{Symbol, Any}}(Dict{Symbol, Any}(:mode => "markers", :y => Float32[0.23322064, 0.24798949, 0.22087735, 0.17458683, 0.32199803, 0.086824134, 0.08250815, 0.04151663, 0.07724901], :type => "scatter", :x => [18.069638362852857, 20.04163888457697, 17.553824210102903, 13.882206529247924, 23.82070036273217, 7.818381171673536, 7.511914624425117, 4.222524552140385, 5.377712074667215]))]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:264"), Reactive{PlotlyBase.Layout{Dict{Symbol, Any}}}(Observable(PlotlyBase.Layout{Dict{Symbol, Any}}(Dict{Symbol, Any}(:template => PlotlyBase.Template
+│   data: Dict{Symbol, Vector{PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}}}
+│   layout: PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}
+│ , :height => 500, :margin => Dict(:l => 20, :b => 20, :r => 20, :t => 45), :title => "Disagreement Measures: IBMD vs Standard Deviation", :width => 500), PlotlyBase.Subplots
+│   rows: Int64 1
+│   cols: Int64 1
+│   shared_xaxes: Bool false
+│   shared_yaxes: Bool false
+│   start_cell: String "top-left"
+│   subplot_titles: Missing missing
+│   column_widths: Missing missing
+│   row_heights: Missing missing
+│   specs: Array{PlotlyBase.Spec}((1, 1))
+│   insets: Missing missing
+│   column_titles: Missing missing
+│   row_titles: Missing missing
+│   x_title: Missing missing
+│   y_title: Missing missing
+│   grid_ref: Array{Vector{PlotlyBase.SubplotRef}}((1, 1))
+│   has_secondary_y: Bool false
+│   horizontal_spacing: Float64 0.2
+│   vertical_spacing: Float64 0.3
+│   max_width: Float64 1.0
+│   _widths: Array{Float64}((1,)) [1.0]
+│   _heights: Array{Float64}((1,)) [1.0]
+│ )), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:265"), Reactive{DataFrames.DataFrame}(Observable(0×0 DataFrame), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:267"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:268"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(10×3 DataFrame
+│  Row │ label      var1     var2
+│      │ Float32    Float32  Float32
+│ ─────┼─────────────────────────────
+│    1 │ 0.0945062  1.83183  2.36702
+│    2 │ 0.101701   2.98655  2.20546
+│    3 │ 0.084287   1.79513  2.4997
+│    4 │ 0.146283   2.03277  1.55841
+│    5 │ 0.106869   2.93388  2.0364
+│    6 │ 0.142664   2.56483  1.06637
+│    7 │ 0.134303   2.31505  1.63464
+│    8 │ 0.117597   2.76877  1.76487
+│    9 │ 0.0738877  1.43412  2.33521
+│   10 │ 0.106634   1.73599  2.15127, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:270"), Reactive{Vector{String}}(Observable(["I.11.19", "I.16.6", "I.6.2", "I.6.2a", "I.6.2short"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:271"), Reactive{String}(Observable("Select a file"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:274"), Reactive{String}(Observable(""), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:275"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:276"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:277"), Reactive{Int64}(Observable(1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:278"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:279"), Reactive{String}(Observable("demofiles/I.6.2short"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:280"), Reactive{Vector{Float64}}(Observable(Float64[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:281"), Reactive{Matrix{Float64}}(Observable(Matrix{Float64}(undef, 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:282"))), 1:2), (label = Float32[0.079435185, 0.038156252, 0.08426643], Status = "Accepted")), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-13 22:09:52 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-13 22:09:56 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22

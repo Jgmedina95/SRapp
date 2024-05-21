@@ -1,0 +1,794 @@
+┌ Info: 2024-05-20 15:31:06 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 15:31:12 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 15:33:08 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 15:33:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 15:41:58 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:42:01 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:45:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:45:52 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:47:08 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:47:10 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:55:05 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:55:09 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:56:35 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:56:38 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:56:40 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:58:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:58:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 15:58:19 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 15:58:22 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 15:59:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 15:59:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 15:59:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 15:59:13 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 15:59:43 MethodError(DateTime, (), 0x00000000000083da)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 16:04:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:04:41 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:04:43 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:05:28 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:05:34 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:05:38 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:05:40 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:05:41 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 16:06:09 MethodError(replace, ("2024-05-20T16:06:09.415", [":", "_"]), 0x00000000000083da)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 16:06:16 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:07:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:07:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:07:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:07:13 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 16:11:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:11:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:12:44 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:12:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:13:29 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:13:33 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:14:52 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:14:55 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:21:23 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:21:28 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:22:00 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:22:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:22:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:22:52 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:22:53 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 16:26:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:26:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:27:14 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:27:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:32:48 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:32:51 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:33:01 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:33:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:33:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:34:56 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:34:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 16:35:59 MethodError(ceil, (DateTime("2024-05-20T16:35:59.133"),), 0x00000000000083dd)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 16:39:08 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:39:11 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:39:16 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:40:01 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:40:07 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:40:28 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:40:29 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 16:43:39 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:43:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:43:46 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:44:29 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:45:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:45:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:46:33 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:46:34 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 16:48:03 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:48:06 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:48:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:48:53 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:52:05 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:52:09 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:52:17 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:52:59 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:53:02 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:53:21 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:53:24 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:53:25 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:53:26 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 16:54:23 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:55:08 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:55:14 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:55:30 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:55:31 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 16:56:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:56:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 16:57:09 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 16:57:51 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:57:57 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 16:58:27 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 16:58:28 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:00:34 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:00:37 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:00:47 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:01:30 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:01:33 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:01:44 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:01:47 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:01:50 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:01:51 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:02:17 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:02:59 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:03:05 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:03:09 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:03:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:04:52 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:04:55 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:05:19 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:06:01 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:06:07 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:06:23 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:06:24 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 17:06:57 UndefVarError(:random)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 17:07:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:07:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Warning: 2024-05-20 17:07:55 UndefVarError(:random)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 17:08:04 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:08:47 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:08:53 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:08:56 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:08:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:10:36 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:10:40 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:10:41 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:11:23 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:11:29 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:11:33 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:11:34 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:14:59 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:15:43 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:15:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:15:58 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:15:58 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:18:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:18:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:19:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:19:05 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:19:07 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:19:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:19:55 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:19:57 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:19:58 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:20:54 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:20:57 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:21:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:21:19 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:21:40 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:22:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:22:28 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:22:32 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:22:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:24:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:24:05 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:24:06 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:24:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:24:55 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:24:59 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:25:00 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:25:58 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:26:01 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:26:04 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:26:45 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:26:51 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:26:55 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:26:56 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:27:35 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:27:39 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:28:23 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:28:28 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:28:31 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:28:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-20 17:29:38 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:29:41 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 17:30:07 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 17:31:16 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:31:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 17:31:27 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 17:31:27 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Error: 2024-05-20 20:36:48 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#36":
+│ [1] (::Main.App.ReactiveDemo.var"#36#57")(demo_file) in Main.App.ReactiveDemo at /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/ReactiveTools.jl:905
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─        Core.NewvarNode(:(value@_3))
+│ │          Core.NewvarNode(:(#39))
+│ │          Core.NewvarNode(:(#38))
+│ │          Core.NewvarNode(:(@_6))
+│ │          Core.NewvarNode(:(#37))
+│ │          Core.NewvarNode(:(value@_8))
+│ │   %7   = Core.getfield(#self#, :__model__)
+│ │   %8   = Base.getproperty(%7, :demo_reset)
+│ │   %9   = Base.getindex(%8)
+│ │   %10  = !%9
+│ └──        goto #3 if not %10
+│ 2 ─        value@_8 = "reading dataset"
+│ │   %13  = Base.repr("reading dataset")
+│ │          Base.println("\"reading dataset\" = ", %13)
+│ │          value@_8
+│ │   %16  = Main.App.ReactiveDemo.DEMO_PATH * demo_file
+│ │   %17  = Core.getfield(#self#, :__model__)
+│ │   %18  = Base.getproperty(%17, :demo_filepath)
+│ │          Base.setindex!(%18, %16)
+│ │   %20  = Core.getfield(#self#, :__model__)
+│ │   %21  = Base.getproperty(%20, :demo_filepath)
+│ │   %22  = Base.getindex(%21)
+│ │   %23  = Main.App.ReactiveDemo.load_data(%22)
+│ │   %24  = Core.getfield(#self#, :__model__)
+│ │   %25  = Base.getproperty(%24, :demo_remaining_data)
+│ │          Base.setindex!(%25, %23)
+│ │          #37 = %new(Main.App.ReactiveDemo.:(var"#37#58"))
+│ │   %28  = #37
+│ │   %29  = Core.getfield(#self#, :__model__)
+│ │   %30  = Base.getproperty(%29, :demo_remaining_data)
+│ │   %31  = Base.getindex(%30)
+│ │   %32  = Base.getproperty(%31, :num_features)
+│ │   %33  = 1:%32
+│ │   %34  = Base.Generator(%28, %33)
+│ │   %35  = Base.collect(%34)
+│ │   %36  = Core.getfield(#self#, :__model__)
+│ │   %37  = Base.getproperty(%36, :demo_vars_list)
+│ │          Base.setindex!(%37, %35)
+│ │   %39  = Core.getfield(#self#, :__model__)
+│ │   %40  = Base.getproperty(%39, :demo_vars_list)
+│ │   %41  = Base.getindex(%40)
+│ │   %42  = Core.getfield(#self#, :__model__)
+│ │   %43  = Base.getproperty(%42, :demo_vars_list1)
+│ │          Base.setindex!(%43, %41)
+│ │   %45  = Core.getfield(#self#, :__model__)
+│ │   %46  = Base.getproperty(%45, :demo_vars_list)
+│ │   %47  = Base.getindex(%46)
+│ │   %48  = Core.getfield(#self#, :__model__)
+│ │   %49  = Base.getproperty(%48, :demo_vars_list2)
+│ │          Base.setindex!(%49, %47)
+│ │   %51  = Core.getfield(#self#, :__model__)
+│ │   %52  = Base.getproperty(%51, :demo_remaining_data)
+│ │   %53  = Base.getindex(%52)
+│ │   %54  = Main.App.ReactiveDemo.samplenewdata(%53, 10)
+│ │   %55  = Base.indexed_iterate(%54, 1)
+│ │   %56  = Core.getfield(%55, 1)
+│ │          @_6 = Core.getfield(%55, 2)
+│ │   %58  = Base.indexed_iterate(%54, 2, @_6)
+│ │   %59  = Core.getfield(%58, 1)
+│ │          @_6 = Core.getfield(%58, 2)
+│ │   %61  = Base.indexed_iterate(%54, 3, @_6)
+│ │   %62  = Core.getfield(%61, 1)
+│ │          @_6 = Core.getfield(%61, 2)
+│ │   %64  = Base.indexed_iterate(%54, 4, @_6)
+│ │   %65  = Core.getfield(%64, 1)
+│ │   %66  = Core.getfield(#self#, :__model__)
+│ │   %67  = Base.getproperty(%66, :demonew_X)
+│ │          Base.setindex!(%67, %56)
+│ │   %69  = Core.getfield(#self#, :__model__)
+│ │   %70  = Base.getproperty(%69, :demonew_y)
+│ │          Base.setindex!(%70, %59)
+│ │   %72  = Core.getfield(#self#, :__model__)
+│ │   %73  = Base.getproperty(%72, :index)
+│ │          Base.setindex!(%73, %62)
+│ │   %75  = Core.getfield(#self#, :__model__)
+│ │   %76  = Base.getproperty(%75, :demo_remaining_data)
+│ │          Base.setindex!(%76, %65)
+│ │   %78  = Core.getfield(#self#, :__model__)
+│ │   %79  = Base.getproperty(%78, :demonew_X)
+│ │   %80  = Base.getindex(%79)
+│ │   %81  = Core.getfield(#self#, :__model__)
+│ │   %82  = Base.getproperty(%81, :file)
+│ │   %83  = Base.getindex(%82)
+│ │          Base.setindex!(%83, %80, "Initial_dataset_X")
+│ │   %85  = Core.getfield(#self#, :__model__)
+│ │   %86  = Base.getproperty(%85, :demonew_y)
+│ │   %87  = Base.getindex(%86)
+│ │   %88  = Core.getfield(#self#, :__model__)
+│ │   %89  = Base.getproperty(%88, :file)
+│ │   %90  = Base.getindex(%89)
+│ │          Base.setindex!(%90, %87, "Initial_dataset_y")
+│ │   %92  = Core.getfield(#self#, :__model__)
+│ │   %93  = Base.getproperty(%92, :demo_remaining_data)
+│ │   %94  = Base.getindex(%93)
+│ │   %95  = Base.getproperty(%94, :num_features)
+│ │   %96  = Core.getfield(#self#, :__model__)
+│ │   %97  = Base.getproperty(%96, :file)
+│ │   %98  = Base.getindex(%97)
+│ │          Base.setindex!(%98, %95, "num_features")
+│ │   %100 = Core.getfield(#self#, :__model__)
+│ │   %101 = Base.getproperty(%100, :file)
+│ │   %102 = Base.getindex(%101)
+│ │          Main.App.ReactiveDemo.print(%102)
+│ │   %104 = Core.getfield(#self#, :__model__)
+│ │   %105 = Base.getproperty(%104, :demonew_X)
+│ │   %106 = Base.getindex(%105)
+│ │   %107 = Main.App.ReactiveDemo.transpose(%106)
+│ │   %108 = Core.getfield(#self#, :__model__)
+│ │   %109 = Base.getproperty(%108, :demonew_y)
+│ │   %110 = Base.getindex(%109)
+│ │   %111 = Core.getfield(#self#, :__model__)
+│ │   %112 = Base.getproperty(%111, :demo_remaining_data)
+│ │   %113 = Base.getindex(%112)
+│ │   %114 = Base.getproperty(%113, :num_features)
+│ │   %115 = Core.getfield(#self#, :__model__)
+│ │   %116 = Base.getproperty(%115, :demo_remaining_data)
+│ │   %117 = Base.getindex(%116)
+│ │   %118 = Base.getproperty(%117, :num_data)
+│ │   %119 = Main.App.ReactiveDemo.MyDataset(%107, %110, %114, %118)
+│ │   %120 = Core.getfield(#self#, :__model__)
+│ │   %121 = Base.getproperty(%120, :demo_current_data)
+│ │          Base.setindex!(%121, %119)
+│ │   %123 = Main.App.ReactiveDemo.:(var"#38#59")
+│ │   %124 = Core.getfield(#self#, :__model__)
+│ │   %125 = Core.typeof(%124)
+│ │   %126 = Core.apply_type(%123, %125)
+│ │   %127 = Core.getfield(#self#, :__model__)
+│ │          #38 = %new(%126, %127)
+│ │   %129 = #38
+│ │   %130 = Core.getfield(#self#, :__model__)
+│ │   %131 = Base.getproperty(%130, :demo_current_data)
+│ │   %132 = Base.getindex(%131)
+│ │   %133 = Base.getproperty(%132, :num_features)
+│ │   %134 = 1:%133
+│ │   %135 = Base.Generator(%129, %134)
+│ │   %136 = Main.App.ReactiveDemo.Dict(%135)
+│ │   %137 = Core.getfield(#self#, :__model__)
+│ │   %138 = Base.getproperty(%137, :demo_dict_to_interphase)
+│ │          Base.setindex!(%138, %136)
+│ │          #39 = %new(Main.App.ReactiveDemo.:(var"#39#60"))
+│ │   %141 = #39
+│ │   %142 = Core.getfield(#self#, :__model__)
+│ │   %143 = Base.getproperty(%142, :demo_current_data)
+│ │   %144 = Base.getindex(%143)
+│ │   %145 = Base.getproperty(%144, :num_features)
+│ │   %146 = 1:%145
+│ │   %147 = Base.Generator(%141, %146)
+│ │   %148 = Base.collect(%147)
+│ │   %149 = Core._apply_iterate(Base.iterate, Main.App.ReactiveDemo.DataFrame, %148)
+│ │   %150 = Core.getfield(#self#, :__model__)
+│ │   %151 = Base.getproperty(%150, :demo_new_points_df)
+│ │          Base.setindex!(%151, %149)
+│ │   %153 = Core.getfield(#self#, :__model__)
+│ │   %154 = Base.getproperty(%153, :demo_new_points_df)
+│ │   %155 = Base.getindex(%154)
+│ │   %156 = Base.getindex(Main.App.ReactiveDemo.Float32)
+│ │          Base.setproperty!(%155, :label, %156)
+│ │   %158 = Core.getfield(#self#, :__model__)
+│ │   %159 = Base.getproperty(%158, :demo_new_points_df)
+│ │   %160 = Base.getindex(%159)
+│ │   %161 = Base.getindex(Main.App.ReactiveDemo.String)
+│ │          Base.setproperty!(%160, :Status, %161)
+│ │   %163 = Core.getfield(#self#, :__model__)
+│ │   %164 = Base.getproperty(%163, :demonew_y)
+│ │   %165 = Base.getindex(%164)
+│ │   %166 = Core.getfield(#self#, :__model__)
+│ │   %167 = Base.getproperty(%166, :demo_dict_to_interphase)
+│ │   %168 = Base.getindex(%167)
+│ │          Base.setindex!(%168, %165, "label")
+│ │   %170 = Core.getfield(#self#, :__model__)
+│ │   %171 = Base.getproperty(%170, :demo_dict_to_interphase)
+│ │   %172 = Base.getindex(%171)
+│ │   %173 = Main.App.ReactiveDemo.DataFrame(%172)
+│ │   %174 = Main.App.ReactiveDemo.describe(%173, :mean, :std, :min, :q25, :q75, :max, :nnonmissing)
+│ │   %175 = Main.App.ReactiveDemo.DataTable(%174)
+│ │   %176 = Core.getfield(#self#, :__model__)
+│ │   %177 = Base.getproperty(%176, :demo_table)
+│ │          Base.setindex!(%177, %175)
+│ │   %179 = true
+│ │   %180 = Core.getfield(#self#, :__model__)
+│ │   %181 = Base.getproperty(%180, :demo_see_trainx)
+│ │          Base.setindex!(%181, %179)
+│ │          value@_3 = "Dataset read"
+│ │   %184 = Base.repr("Dataset read")
+│ │          Base.println("\"Dataset read\" = ", %184)
+│ └──        return value@_3
+│ 3 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   String
+│ 
+│   Value:
+│   I.6.2short
+│ 
+│   Exception:
+│   MethodError(Vector{Any}, (Float32[2.0327744 1.55841; 1.4298258 2.8521883; 2.4725006 2.7550933; 1.4341167 2.3352082; 2.0418222 1.4022493; 2.5746245 1.2280266; 2.5648305 1.0663712; 1.7951349 2.4997005; 2.933881 2.0363975; 2.3150506 1.6346393],), 0x00000000000083e2)
+│ 
+│   exception = (MethodError(Vector{Any}, (Float32[2.0327744 1.55841; 1.4298258 2.8521883; 2.4725006 2.7550933; 1.4341167 2.3352082; 2.0418222 1.4022493; 2.5746245 1.2280266; 2.5648305 1.0663712; 1.7951349 2.4997005; 2.933881 2.0363975; 2.3150506 1.6346393],), 0x00000000000083e2), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00000001052e8153, Ptr{Nothing} @0x00000001052e808f, Ptr{Nothing} @0x00000001052ed3e7, Ptr{Nothing} @0x000000035da70023, Ptr{Nothing} @0x000000035da7c013, Ptr{Nothing} @0x000000035da884ff, Ptr{Nothing} @0x000000035da8852b, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x00000001052fa5a3, Ptr{Nothing} @0x000000035d6b0117, Ptr{Nothing} @0x000000035d6bc047, Ptr{Nothing} @0x000000035d6bc07f, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x000000035d6a4163, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x000000035bc7cde3, Ptr{Nothing} @0x000000035bc7ce7f, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x0000000346c8c92b, Ptr{Nothing} @0x0000000346cd4143, Ptr{Nothing} @0x0000000346ce0037, Ptr{Nothing} @0x0000000346ce00ab, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x000000034627c0cb, Ptr{Nothing} @0x000000034627c0ff, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x00000001052fa5a3, Ptr{Nothing} @0x0000000345f641af, Ptr{Nothing} @0x0000000345f7049f, Ptr{Nothing} @0x0000000345fe8df7, Ptr{Nothing} @0x0000000346168383, Ptr{Nothing} @0x0000000346168403, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x00000001052fa5a3, Ptr{Nothing} @0x0000000345df9093, Ptr{Nothing} @0x0000000345e3418f, Ptr{Nothing} @0x0000000345e3420f, Ptr{Nothing} @0x00000001052ed4c3, Ptr{Nothing} @0x000000010530c26b])
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/stipple/mutators.jl:54
+┌ Info: 2024-05-20 20:39:11 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 20:39:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 20:39:18 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 20:40:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 20:40:10 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 20:40:27 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 20:40:28 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 20:41:12 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-20 20:41:14 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 20:41:36 ErrorException("Cannot serialize type LossFunctions.L2DistLoss")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 20:47:26 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 20:47:30 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 20:47:35 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 20:48:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 20:54:11 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 20:54:15 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 20:55:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 20:55:10 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 20:55:18 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 20:55:19 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 20:55:58 ErrorException("type Dict has no field loss")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 20:57:07 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 20:57:10 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Warning: 2024-05-20 20:57:15 ErrorException("type Dict has no field loss")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 20:57:25 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 20:58:08 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 20:58:15 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 20:58:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 20:58:50 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 20:59:57 UndefVarError(:pop)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 21:01:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:01:18 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 21:01:19 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:02:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:02:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:02:14 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 21:02:14 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 21:02:54 UndefVarError(:delete)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 21:03:41 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:03:44 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:03:45 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 21:04:30 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:04:37 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:06:04 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 21:06:05 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 21:08:02 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:08:36 ErrorException("Cannot serialize type LossFunctions.L2DistLoss")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 21:10:00 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:10:04 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:10:17 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 21:11:00 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:11:07 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:11:13 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 21:11:14 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 21:12:03 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-20 21:12:05 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:12:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:12:06 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-20 21:12:35 ErrorException("Cannot serialize type LossFunctions.L2DistLoss")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 21:13:28 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:13:31 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:13:33 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 21:14:16 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:14:23 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:14:50 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 21:14:50 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 21:15:30 ErrorException("Cannot serialize type LossFunctions.L2DistLoss")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-20 21:16:35 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:16:38 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-20 21:16:39 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-20 21:17:23 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:17:30 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-20 21:17:34 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-20 21:17:35 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-20 21:18:14 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-20 21:18:16 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-20 21:19:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22

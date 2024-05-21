@@ -1,0 +1,223 @@
+<a href="$(linkto(:get_demo))">Bar</a>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <q-uploader
+      url="http://localhost:2345/"
+      label="Upload CSV file"
+      color="purple"
+      style="max-width: 300px;"
+    ></q-uploader>
+  
+    <q-card dark bordered style="width: 350px;">
+      <q-badge color="blue">
+        <a href="https://arxiv.org/pdf/2305.10379.pdf" target="_blank">ArXiv 2305.10379</a> 
+      </q-badge>
+      <q-card-section>
+        <div class="text-subtitle2"> <b>QBC with Symbolic Regression</b></div>
+        <div class="h6"> Jorge Medina, Andrew White</div>
+        <div class="subtitle-2"><i>University of Rochester</i></div>
+      </q-card-section>
+
+    <q-separator inset />
+<q-expansion-item  dense-toggle="" expand-separator="" icon="info" label="Abstract" >
+    <q-card-section>
+     Abstract <br>
+     Evolutionary symbolic regression (SR) fits a symbolic equation to data, producing a concise, interpretable model. This study proposes using SR in an active learning scenario to determine which data to collect, considering physical constraints. The goal is to guide which experiments to conduct next.
+The active learning approach is facilitated through  query by committee (QBC), with the committee being the Pareto frontier of equations. When applied, physical constraints improve the suggested equations, specifically in very low data scenarios. These methods decrease the volume of data needed for SR.
+    </q-card-section>
+</q-expansion-item>
+</q-card>
+</div>
+
+<q-expansion-item  dense-toggle="" expand-separator="" icon="view_module" label="Whats your dataset?"  style="text-align: center; padding: 0 4cm;">
+    <div>
+    <q-select color="purple-12" v-model="yourfile" :options="upfiles" label="Uploaded datasets" :model-value="yourfile">
+    </q-select>
+    <q-toggle v-model="use_header" label="Dataset has header?"></q-toggle>
+    <q-toggle v-model="select_label" label="Select which column is the label (defaults to last)"></q-toggle>
+    <q-select filled v-model="label_column" v-if="select_label" :options="column_names" label="Label (stacked)" :model-value="label_column" stack-label :dense="dense" :options-dense="true" />
+
+</div>
+    <div>    
+    <q-table flat="" bordered="" :columns="table.columns" v-model="table" :data="table.data" row-key="__id"></q-table>
+    </div> 
+
+</q-expansion-item>
+<q-expansion-item dense-toggle="" expand-separator="" icon="view_module" label="Defining Search Space" style="text-align: center; padding: 0 4cm;" >
+    <h2>Defining Search Space</h2>
+    <h5>Select Number of Variables</h5>
+    <div class="q-pa-md">
+        <div class="row">
+            <div class="st-col col-12 col-sm st-module">
+                <h6>There are {{number_of_variables}} variables in your data</h6>
+            </div>
+        </div>
+    </div>
+
+    <h5 v-if="number_of_variables > 0">Variable Ranges</h5>
+    <div v-if="number_of_variables > 0" class="row">
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Low_bound_X1" placeholder="Min Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="High_bound_X1" placeholder="Max Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Number_of_X1" placeholder="Num of Points" dense="true"></q-input>
+        </div>
+    </div>
+    <div v-if="number_of_variables > 1" class="row">
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Low_bound_X2" placeholder="Min Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="High_bound_X2" placeholder="Max Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Number_of_X2" placeholder="Num of Points" dense="true"></q-input>
+        </div>
+    </div>
+    <div v-if="number_of_variables > 2" class="row">
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Low_bound_X3" placeholder="Min Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="High_bound_X3" placeholder="Max Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Number_of_X3" placeholder="Num of Points" dense="true"></q-input>
+        </div>
+    </div>
+    <div v-if="number_of_variables > 3" class="row">
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Low_bound_X4" placeholder="Min Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="High_bound_X4" placeholder="Max Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Number_of_X4" placeholder="Num of Points" dense="true"></q-input>
+        </div>
+    </div>
+    <div v-if="number_of_variables > 4" class="row">
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Low_bound_X5" placeholder="Min Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="High_bound_X5" placeholder="Max Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Number_of_X5" placeholder="Num of Points" dense="true"></q-input>
+        </div>
+    </div>
+    <div v-if="number_of_variables > 5" class="row">
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Low_bound_X6" placeholder="Min Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="High_bound_X6" placeholder="Max Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Number_of_X6" placeholder="Num of Points" dense="true"></q-input>
+        </div>
+    </div>
+    <div v-if="number_of_variables > 6" class="row">
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Low_bound_X7" placeholder="Min Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="High_bound_X7" placeholder="Max Value" dense="true"></q-input>
+        </div>
+        <div class="st-col col-6 col-md-4 col-lg-3 st-module">
+            <q-input v-model="Number_of_X7" placeholder="Num of Points" dense="true"></q-input>
+        </div>
+    </div>
+
+    <div>
+        <q-btn label="Save Pool" v-on:click="save_pool=!save_pool"></q-btn>
+    </div>
+</q-expansion-item>
+<q-expansion-item  dense-toggle="" expand-separator="" icon="settings" label="Defining Symbolic Regression Options" style="text-align: center ;padding: 0 4cm;" >
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create Form Button</title>
+    <h4> Selecting the Options! </h4>
+    <div class="st-col col-12 col-sm st-module" style="text-align: left;">
+        <p></p>
+        <q-select v-model="bin_op1" :options="bin_ops" :model-value="bin_op1" :multiple="use_multiple"></q-select>This are the unitary ops {{unary_ops}}, and this is list used for regressopm {{un_op1}}
+        <q-select v-model="un_op1" :options="unary_ops" :model-value="un_op1" :multiple="use_multiple"></q-select>
+        <p>Number of populations {{n_populations}}</p>
+        <q-slider v-model="n_populations" :min="5" :max="100"></q-slider>
+        <p>Number of iterations {{n_iterations}}</p>
+        <q-slider v-model="n_iterations"></q-slider>
+        <p>Loss</p>
+        <q-radio v-model="loss" val="L2DistLoss" label="L2DistLoss" />
+        <q-radio v-model="loss" val="L1DistLoss" label="L1DistLoss" />
+        <p>Physical Constraint Loss</p>
+        <q-toggle v-model="use_constrained_loss" label="Use Physical Loss"></q-toggle>
+        <q-radio v-model="constrained_loss" v-if="use_constrained_loss" val="symmetry" label="Symmetry Between Variables" />
+        <q-radio v-model="constrained_loss" v-if="use_constrained_loss" val="divergencyI" label="Variable with divergency" />
+        <q-radio v-model="constrained_loss" v-if="use_constrained_loss" val="divergencyII" label="Variables with divergency |a-b|" />
+            <div v-if="define_symmetry_vars"  style="max-width: 200px">
+              <q-select
+                v-model="selectedFirst"
+                :options="vars_list1"
+                label="Select Variable 1"
+              ></q-select>
+          
+              <q-select
+                v-model="selectedSecond"
+                :options="vars_list2"
+                label="Select Variable 2"
+              ></q-select>
+            </div>
+            <div v-if="define_divergencyI_vars"  style="max-width: 200px">
+                <q-select
+                  v-model="selectedFirst"
+                  :options="vars_list1"
+                  label="Select Variable 1"
+                ></q-select>
+    
+                <q-input
+                  v-model.number="div_value"
+                  type="number"
+                  label="Select Value at which f(X) is divergent"
+                  :rules = "[typeof value === 'number'|| 'Please enter a number']"
+                ></q-select>
+              </div>
+              <div v-if="define_divergencyII_vars"  style="max-width: 200px">
+                <q-select
+                  v-model="selectedFirst"
+                  :options="vars_list1"
+                  label="Select Variable 1"
+                ></q-select>
+            
+                <q-select
+                  v-model="selectedSecond"
+                  :options="vars_list2"
+                  label="Select Variable 2"
+                ></q-select>
+              </div>
+              <div v-if="use_constrained_loss">
+                <p>Split between Constrained and Non-constrained Evolution: {{split*100}}%</p>
+                <q-slider v-model="split" :step="0.1" :min="0" :max="1"></q-slider>
+            </div>
+    </div>
+
+
+  
+</q-expansion-item>
+
+<q-btn label="Show results" v-on:click="show_results=!show_results"></q-btn>
+<q-btn label="Submit" v-on:click="save_options=!save_options" :loading="training"></q-btn>
+<q-btn label="Something" v-on:click="do_something=true"></q-btn>
+<div v-if="see_equations" class="equations-section">    
+    <h2>New Point Details</h2>
+    <p class="new-point">The new point is {{new_point}}</p>
+    <div class="table-container">
+        <q-table  v-if="see_equations" bordered :columns="new_point_table.columns" v-model="new_point_table" :data="new_point_table.data" row-key="__id" class="new-point-table"></q-table>
+    </div>
+    <div class="table-container">
+        <q-table  v-if="see_equations" bordered :columns="results_table.columns" v-model="results_table" :data="results_table.data" row-key="__id" class="results-table"></q-table>
+    </div>
+</div>

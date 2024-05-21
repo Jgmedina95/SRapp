@@ -1,0 +1,334 @@
+┌ Info: 2024-02-07 14:22:20 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:22:21 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:22:33 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:22:34 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 14:23:43 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:23:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:23:46 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 14:23:47 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:24:12 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:24:12 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:24:13 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 14:25:39 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Info: 2024-02-07 14:33:18 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 14:37:15 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 14:38:28 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:38:29 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:38:31 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:38:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:38:48 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:39:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:39:39 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:39:45 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:40:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:40:50 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:41:14 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:44:41 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:44:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:44:45 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:44:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 14:45:58 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:46:01 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:01 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:03 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:46:03 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-02-07 14:48:55 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 14:48:59 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 14:49:54 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:49:55 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:50:41 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:50:42 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 14:52:02 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:52:04 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:52:04 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:52:05 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:52:05 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:52:05 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:52:05 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-02-07 14:52:19 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 14:54:47 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 14:55:37 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:55:38 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 14:56:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 14:56:01 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 14:57:49 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:57:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:57:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:57:53 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 14:57:53 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 14:57:53 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 14:57:53 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 14:58:20 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:59:21 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:59:36 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:59:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:44 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 14:59:44 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:44 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:45 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:45 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:45 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 14:59:45 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:00:01 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:00:01 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:00:01 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:00:07 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:00:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:00:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:00:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:00:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:00:58 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Info: 2024-02-07 15:03:57 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 15:10:37 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 15:10:37 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 15:10:56 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:10:57 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-02-07 15:21:01 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 15:21:03 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 15:22:00 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 15:22:01 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 15:22:21 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 15:22:22 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-02-07 15:23:07 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 15:23:10 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 15:23:59 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 15:24:00 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 15:24:03 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 15:24:04 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 15:25:10 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:25:47 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:26:40 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:26:40 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:41 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 15:26:41 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 15:26:45 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:26:45 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:46 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:50 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:26:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:54 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 15:26:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 15:26:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-02-07 15:28:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 16:14:44 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 16:14:55 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 16:15:02 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 16:15:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 16:15:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 16:15:55 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 16:15:56 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 16:16:52 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 16:16:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 16:16:56 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 16:16:56 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 16:16:56 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-02-07 16:17:54 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 16:17:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 16:17:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 16:17:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 16:17:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 16:17:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-02-07 16:22:12 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-02-07 16:22:21 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 16:23:11 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 16:23:12 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-02-07 16:23:19 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-02-07 16:23:20 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-02-07 16:24:48 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-02-07 16:24:52 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-02-07 16:24:52 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-02-07 16:32:05 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-02-07 21:23:32 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22

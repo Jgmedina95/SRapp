@@ -1,0 +1,217 @@
+<a href="$(linkto(:get_))">Foo</a>
+
+<q-card dark bordered style="width: 350px;">
+    <q-badge color="blue">
+      <a href="https://arxiv.org/pdf/2305.10379.pdf" target="_blank">ArXiv 2305.10379</a> 
+    </q-badge>
+    <q-card-section>
+      <div class="text-subtitle2"> <b>QBC with Symbolic Regression</b></div>
+      <div class="h6"> Jorge Medina, Andrew White</div>
+      <div class="subtitle-2"><i>University of Rochester</i></div>
+    </q-card-section>
+
+  <q-separator inset />
+<q-expansion-item  dense-toggle="" expand-separator="" icon="info" label="Abstract" >
+  <q-card-section>
+   Abstract <br>
+   Evolutionary symbolic regression (SR) fits a symbolic equation to data, producing a concise, interpretable model. This study proposes using SR in an active learning scenario to determine which data to collect, considering physical constraints. The goal is to guide which experiments to conduct next.
+The active learning approach is facilitated through  query by committee (QBC), with the committee being the Pareto frontier of equations. When applied, physical constraints improve the suggested equations, specifically in very low data scenarios. These methods decrease the volume of data needed for SR.
+  </q-card-section>
+</q-expansion-item>
+</q-card>
+<q-select color="purple-12" v-model="demo_file" :options="demo_upfiles" label="Demo datasets" :model-value="demo_file">
+</q-select>
+<div class="table-container">
+    <q-table  v-if="demo_see_trainx" bordered :columns="demo_table.columns" v-model="demo_table" :data="demo_table.data" row-key="__id" class="demo_table"></q-table>
+</div>
+<q-expansion-item  dense-toggle="" expand-separator="" icon="settings" label="Defining Settings"  style="text-align: center; padding: 0 4cm; font-size: 1.5em;font-weight: bold;" >
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Create Form Button</title>
+  <div class = row style="font-weight: normal;font-size: 0.9em; "">
+    <div class="st-col col-12 col-sm st-module" style="text-align: left;font-size: 0.9em; ">
+        <h4> Symbolic Regression Options </h4>
+        <p></p>
+        <q-select v-model="demo_bin_op1" :options="demo_bin_ops" :model-value="demo_bin_op1" :multiple="demo_use_multiple"></q-select>
+        <q-select v-model="demo_un_op1" :options="demo_un_ops" :model-value="demo_un_op1" :multiple="demo_use_multiple"></q-select>
+        <p>Number of populations {{demo_n_populations}}</p>
+        <q-slider v-model="demo_n_populations" :min="5" :max="100"></q-slider>
+        <p>Number of iterations {{demo_n_iterations}}</p>
+        <q-slider v-model="demo_n_iterations"></q-slider>
+        <p>Loss</p>
+        <q-radio v-model="demo_loss" val="L2DistLoss" label="L2DistLoss" />
+        <q-radio v-model="demo_loss" val="L1DistLoss" label="L1DistLoss" />
+        <p>Physical Constraint Loss</p>
+        <q-toggle v-model="demo_use_constrained_loss" label="Use Physical Loss"></q-toggle>
+        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="symmetry" label="Symmetry Between Variables" />
+        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="divergencyI" label="Variable with divergency" />
+        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="divergencyII" label="Variables with divergency |a-b|" />
+            <div v-if="demo_define_symmetry_vars"  style="max-width: 200px">
+              <q-select
+                v-model="demo_selectedFirst"
+                :options="demo_vars_list1"
+                label="Select Variable 1"
+              ></q-select>
+          
+              <q-select
+                v-model="demo_selectedSecond"
+                :options="demo_vars_list2"
+                label="Select Variable 2"
+              ></q-select>
+            </div>
+            <div v-if="demo_define_divergencyI_vars"  style="max-width: 200px">
+                <q-select
+                  v-model="demo_selectedFirst"
+                  :options="demo_vars_list1"
+                  label="Select Variable 1"
+                ></q-select>
+    
+                <q-input
+                  v-model.number="demo_div_value"
+                  type="number"
+                  label="Select Value at which f(X) is divergent"
+                  :rules = "[typeof value === 'number'|| 'Please enter a number']"
+                ></q-input>
+              </div>
+              <div v-if="demo_define_divergencyII_vars"  style="max-width: 200px">
+                <q-select
+                  v-model="demo_selectedFirst"
+                  :options="demo_vars_list1"
+                  label="Select Variable 1"
+                ></q-select>
+            
+                <q-select
+                  v-model="demo_selectedSecond"
+                  :options="demo_vars_list2"
+                  label="Select Variable 2"
+                ></q-select>
+              </div>
+              <div v-if="demo_use_constrained_loss">
+                <p>Split between Constrained and Non-constrained Evolution: {{demo_split*100}}%</p>
+                <q-slider v-model="demo_split" :step="0.1" :min="0" :max="1"></q-slider>
+            </div>
+    </div>
+    <div class="st-col col-12 col-sm st-module" style="text-align: left;font-size: 0.9em;">
+      <h4> Active Learning Options </h4>
+      <p>Number of samples per batch:  {{demo_batch_number}}</p>
+      <q-input  style="max-width: 200px;"
+      v-model.number="demo_batch_number"
+      type="number"
+      :min="1"
+      :max="25"
+      :rules = "[typeof value === 'number'|| 'Please enter a number']"
+    ></q-input>
+      <p>Disagreement Measurement</p>
+      <q-radio v-model="demo_disagreement_measurement" val="IBMD" label="IBMD" />
+      <q-radio v-model="demo_disagreement_measurement" val="std" label="Standard Deviation" />
+    
+    </div>
+  </div>
+</q-expansion-item>
+
+<div class="row q-gutter-md q-px-md flex justify-center">
+<q-btn label="Save your settings!" 
+        v-on:click="demo_save_options=true" 
+        :loading="demo_saving_options">
+      </q-btn>
+</div>
+<q-expansion-item label="Loop Progress" icon="loop"  style="text-align: center; padding: 0 4cm; font-size: 1.5em;font-weight: bold;">
+  <div class="q-pa-md row" style="font-size: 1.0em; font-weight: normal;">
+    <div class="col">
+      <div display="flex" overflow-x="auto" white-space="nowrap">
+          <div class="text-h2">Most Recent Data Point Proposed</div> 
+
+          <div class="table-container">
+            <q-table   bordered 
+            :columns="demo_new_point_table.columns" 
+            v-model="demo_new_point_table" 
+            :data="demo_new_point_table.data" 
+            row-key="__id" 
+            class="new-point-table">
+            </q-table>
+          </div>
+        <q-btn label="Include to Dataset"
+                v-on:click="demo_add_new_point=true" 
+                :loading="demo_adding_new_point"
+                color="positive" 
+                text-color="white">
+        </q-btn>
+        <q-btn label="Reject Proposed Point"
+                v-on:click="demo_reject_new_point=true" 
+                :loading="demo_rejecting_new_point"
+                color="negative" 
+                text-color="white">
+        </q-btn>
+      </div>
+    </div>
+    <div class="col">
+        <div display="flex" overflow-x="auto" white-space="nowrap">
+            <div class="text-h2">History of Data Points Proposed</div> 
+            
+            <div class="table-container">
+              <q-table  v-if="demo_see_equations" bordered 
+              :columns="demo_new_points_table.columns" 
+              v-model="demo_new_points_table" 
+              :data="demo_new_points_table.data" 
+              row-key="__id" 
+              class="new-point-table">
+              </q-table>
+            </div>
+        </div>
+    </div>
+  </div>     <!-- Row Container -->
+  <div class="row">
+    <div class="st-col col-12 col-sm st-module" style="display: flex; justify-content: center;">
+      <plotly :data="demo_scatter_data" :layout="demo_scatter_layout"></plotly>
+      <q-tooltip>
+        Based on Figure 3a) of the paper. Comparison on how each disagreement measurment acts on each possible sample.
+      </q-tooltip>
+    </div>
+    <div class="col">
+      <div display="flex" overflow-x="auto" white-space="nowrap">
+        <div class="table-container">
+            <q-table  v-if="demo_see_new_point" bordered 
+            :columns="demo_symb_table.columns" 
+            v-model="demo_symb_table" 
+            :data="demo_symb_table.data" 
+            row-key="__id" 
+            class="demo_symb_table">
+            </q-table>
+            <q-btn v-if = "demo_see_new_point"
+              label="Don't like it, retry!" 
+              v-on:click="train=true" 
+              :loading="demo_training">
+          </q-btn>
+        </div>
+      </div>
+    </div>
+  </div>
+</q-expansion-item>
+<div class="row q-gutter-md q-px-md flex justify-center">
+<q-btn label="Train the model!" 
+        v-on:click="train=true" 
+        :loading="demo_training"
+        :disable="!demo_block_options">
+      <q-tooltip v-if="!demo_block_options">
+        Save Settings First!
+      </q-tooltip>
+</q-btn>
+<a id="dynamicLink" :href="linkhref" target="_blank" download></a> 
+<q-btn label="Save Progress" 
+        v-on:click="dfile=true" 
+        :loading="dfile"
+      >
+      <q-tooltip>
+        Save!
+      </q-tooltip>
+</q-btn>
+<q-btn label="Reset" 
+       v-on:click="demo_reset=true" 
+       :loading="demo_reseting"
+       style="position: fixed; right: 0; top: 20%; transform: translateY(-50%); background-color: red; color: white;">
+       <q-tooltip>
+       Reinitialize ALL parameters of the app, including the dataset. Save first to avoid loosing progress. 
+      </q-tooltip>
+</q-btn>
+
+</div>

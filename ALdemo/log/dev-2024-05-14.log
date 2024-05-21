@@ -1,0 +1,868 @@
+┌ Info: 2024-05-14 09:41:42 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:41:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:41:54 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 09:41:54 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 09:42:34 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 09:42:36 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:38 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:38 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:38 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:38 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:42:38 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-14 09:42:38 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-14 09:42:38 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-14 09:42:46 MethodError(merge, (Base.Generator{UnitRange{Int64}, Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}(Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}(Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"("ILPXZCIVBFTOSVRDNSCWJLFMMAEHDUDM", LittleDict{Symbol, Int64, Vector{Symbol}, Vector{Int64}}(), Reactive{Bool}(Observable(true), 1, false, false, ""), Reactive{Bool}(Observable(false), 1, false, false, ""), Reactive{Bool}(Observable(false), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:194"), Reactive{String}(Observable("I.6.2short"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:195"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:196"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:197"), Reactive{Vector{Any}}(Observable(Any[]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:198"), Reactive{Int64}(Observable(3), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:199"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:244"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:201"), Reactive{String}(Observable("0.10794011\n(0.18864872 / x2)\n(sin(x2) * 0.14514267)\n(cos(log(x2)) * 0.14538847)\n((x2 * 0.40796688) / exp(x2))\n(sin(0.40796688 / exp(x2)) * x2)\n(((x2 * 0.43065727) - 0.03528376) / exp(x2))\n(((x2 * 0.40796688) / exp(x2 + (0.40796688 / x1))) * 1.1781538)\n(sin((x2 * 0.40796688) / exp(x2 + (0.40796688 / x1))) * 1.1781538)\n((sin(cos(sin(log(x1))) * x2) * (x2 * 0.4883169)) / exp(x2))\n((sin(cos(log(x1)) * (x2 + 0.24545372)) * (x2 * 0.4883169)) / exp(x2))\nsin((sin(sin(cos(sin(log(x1))) * x2)) * (x2 * 0.5448237)) / exp(x2))\n(-0.13923799 / ((cos(exp(x2 / cos(x1))) - x2) + (((-1.6623255 / x2) / x2) / 1.6066294)))\n(-0.13923799 / ((cos(exp(x2 / cos(x1)) * x2) - x2) + (((-1.6623255 / x2) / x2) / 1.6066294)))"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:202"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:203"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:204"), Reactive{Vector{String}}(Observable(["Symmetry", "Divergency Type I", "Divergency Type II"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:205"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("searchspace" => Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.3670156; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.0327744 1.55841; 2.428876 2.4151974], Float32[0.09450619, 0.106869176, 0.10663428, 0.12067173, 0.14628331, 0.10018355], 2, 6), "use_physical_constraints" => false, "stateReturn" => false, "const_loss" => nothing, "binary_operators" => ["+", "-", "*", "/"], "npopulations" => 10, "loss" => LossFunctions.L2DistLoss(), "niterations" => 10, "header" => false, "disagreement_measure" => "IBMD", "filename" => "", "unary_operators" => ["sin", "cos", "exp", "log"], "split" => 0.1)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:206"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("var1" => Float32[1.4298258, 2.0418222, 2.5746245, 2.4725006, 2.3150506, 2.5648305, 2.7687669, 2.2937846, 2.9865513, 1.7951349], "label" => Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], "var2" => Float32[2.8521883, 1.4022493, 1.2280266, 2.7550933, 1.6346393, 1.0663712, 1.7648665, 2.8280172, 2.2054586, 2.4997005])), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:207"), Reactive{Vector{Any}}(Observable(Any[]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:210"), Reactive{LossFunctions.L2DistLoss}(Observable(LossFunctions.L2DistLoss()), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:211"), Reactive{String}(Observable("None"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:212"), Reactive{String}(Observable("L2DistLoss"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:213"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:214"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:215"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:216"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:217"), Reactive{Int64}(Observable(100), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:218"), Reactive{Float64}(Observable(0.0), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:219"), Reactive{Float64}(Observable(0.1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:220"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:221"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:222"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:223"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:224"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:225"), Reactive{Vector{Int64}}(Observable([9, 4, 1]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:227"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:228"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:229"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.3670156; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.0327744 1.55841; 2.428876 2.4151974], Float32[0.09450619, 0.106869176, 0.10663428, 0.12067173, 0.14628331, 0.10018355], 2, 6)), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:230"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:231"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:232"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:233"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:234"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:235"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:236"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:237"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:238"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:239"), Reactive{Vector{Int64}}(Observable([4, 13, 10, 7, 3, 1, 12, 5, 18, 16]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:240"), Reactive{Vector{Float32}}(Observable(Float32[0.073887706, 0.079435185, 0.08426643]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:241"), Reactive{Matrix{Float32}}(Observable(Float32[1.4341167 2.3352082; 2.6239996 2.989922; 2.8932168 2.8713315]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:242"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:243"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:245"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:246"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:247"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:269"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:249"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:250"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:251"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:252"), Reactive{Vector{Float64}}(Observable([21.520183765882393, 19.80806719384418, 17.993311447731685]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:253"), Reactive{DataFrames.DataFrame}(Observable(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 1.43412  2.33521  21.5202
+│    2 │ 2.624    2.98992  19.8081
+│    3 │ 2.89322  2.87133  17.9933), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:254"), Reactive{DataFrames.DataFrame}(Observable(0×4 DataFrame
+│  Row │ var1     var2     label    Status
+│      │ Float32  Float32  Float32  String
+│ ─────┴───────────────────────────────────), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:255"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 1.43412  2.33521  21.5202
+│    2 │ 2.624    2.98992  19.8081
+│    3 │ 2.89322  2.87133  17.9933, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:256"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(0×0 DataFrame, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:257"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(14×2 DataFrame
+│  Row │ losses       members
+│      │ Float32      String
+│ ─────┼────────────────────────────────────────────────
+│    1 │ 0.00116941   0.10794011
+│    2 │ 0.000394093  (0.18864872 / x2)
+│    3 │ 0.000370958  (sin(x2) * 0.14514267)
+│    4 │ 0.000173835  (cos(log(x2)) * 0.14538847)
+│    5 │ 0.000160862  ((x2 * 0.40796688) / exp(x2))
+│    6 │ 0.000160289  (sin(0.40796688 / exp(x2)) * x2)
+│    7 │ 0.000157327  (((x2 * 0.43065727) - 0.03528376…
+│    8 │ 0.000150396  (((x2 * 0.40796688) / exp(x2 + (…
+│    9 │ 0.000150334  (sin((x2 * 0.40796688) / exp(x2 …
+│   10 │ 0.0001386    ((sin(cos(sin(log(x1))) * x2) * …
+│   11 │ 0.000125311  ((sin(cos(log(x1)) * (x2 + 0.245…
+│   12 │ 9.40133e-5   sin((sin(sin(cos(sin(log(x1))) *…
+│   13 │ 5.06593e-5   (-0.13923799 / ((cos(exp(x2 / co…
+│   14 │ 4.66471e-5   (-0.13923799 / ((cos(exp(x2 / co…, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:258"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Matrix{Float32}(undef, 0, 0), Float32[], 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:259"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349 1.4341167 2.6239996 2.8932168; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005 2.3352082 2.989922 2.8713315], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287, 0.073887706, 0.079435185, 0.08426643], 2, 12)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:260"), Reactive{Vector{PlotlyBase.GenericTrace{Dict{Symbol, Any}}}}(Observable(PlotlyBase.GenericTrace{Dict{Symbol, Any}}[PlotlyBase.GenericTrace{Dict{Symbol, Any}}(Dict{Symbol, Any}(:mode => "markers", :y => Float32[0.20073755, 0.0774753, 0.07920015, 0.26514757, 0.08467913, 0.07940871, 0.09219711, 0.09103515, 0.19278373], :type => "scatter", :x => [17.993311447731685, 10.119252333592158, 9.72427600028459, 19.80806719384418, 11.17750574182719, 10.07389473344665, 12.079873794209561, 11.521499216090888, 21.520183765882393]))]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:264"), Reactive{PlotlyBase.Layout{Dict{Symbol, Any}}}(Observable(PlotlyBase.Layout{Dict{Symbol, Any}}(Dict{Symbol, Any}(:template => PlotlyBase.Template
+│   data: Dict{Symbol, Vector{PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}}}
+│   layout: PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}
+│ , :height => 500, :margin => Dict(:l => 20, :b => 20, :r => 20, :t => 45), :title => "Disagreement Measures: IBMD vs Standard Deviation", :width => 500), PlotlyBase.Subplots
+│   rows: Int64 1
+│   cols: Int64 1
+│   shared_xaxes: Bool false
+│   shared_yaxes: Bool false
+│   start_cell: String "top-left"
+│   subplot_titles: Missing missing
+│   column_widths: Missing missing
+│   row_heights: Missing missing
+│   specs: Array{PlotlyBase.Spec}((1, 1))
+│   insets: Missing missing
+│   column_titles: Missing missing
+│   row_titles: Missing missing
+│   x_title: Missing missing
+│   y_title: Missing missing
+│   grid_ref: Array{Vector{PlotlyBase.SubplotRef}}((1, 1))
+│   has_secondary_y: Bool false
+│   horizontal_spacing: Float64 0.2
+│   vertical_spacing: Float64 0.3
+│   max_width: Float64 1.0
+│   _widths: Array{Float64}((1,)) [1.0]
+│   _heights: Array{Float64}((1,)) [1.0]
+│ )), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:265"), Reactive{DataFrames.DataFrame}(Observable(0×0 DataFrame), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:267"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:268"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(10×3 DataFrame
+│  Row │ label      var1     var2
+│      │ Float32    Float32  Float32
+│ ─────┼─────────────────────────────
+│    1 │ 0.0381563  1.42983  2.85219
+│    2 │ 0.154339   2.04182  1.40225
+│    3 │ 0.138291   2.57462  1.22803
+│    4 │ 0.0867266  2.4725   2.75509
+│    5 │ 0.134303   2.31505  1.63464
+│    6 │ 0.142664   2.56483  1.06637
+│    7 │ 0.117597   2.76877  1.76487
+│    8 │ 0.0813359  2.29378  2.82802
+│    9 │ 0.101701   2.98655  2.20546
+│   10 │ 0.084287   1.79513  2.4997, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:270"), Reactive{Vector{String}}(Observable(["I.11.19", "I.16.6", "I.6.2", "I.6.2a", "I.6.2short"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:271"), Reactive{String}(Observable("Select a file"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:274"), Reactive{String}(Observable(""), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:275"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:276"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:277"), Reactive{Int64}(Observable(1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:278"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:279"), Reactive{String}(Observable("demofiles/I.6.2short"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:280"), Reactive{Vector{Float64}}(Observable(Float64[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:281"), Reactive{Matrix{Float64}}(Observable(Matrix{Float64}(undef, 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:282"))), 1:2), (label = Float32[0.073887706, 0.079435185, 0.08426643], Status = "Accepted")), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 09:45:08 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 09:45:12 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 09:45:13 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 09:45:57 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:46:04 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:46:07 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 09:46:08 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 09:46:54 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 09:47:07 MethodError(merge, (Base.Generator{UnitRange{Int64}, Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}(Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}(Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"("ILPXZCIVBFTOSVRDNSCWJLFMMAEHDUDM", LittleDict{Symbol, Int64, Vector{Symbol}, Vector{Int64}}(), Reactive{Bool}(Observable(true), 1, false, false, ""), Reactive{Bool}(Observable(false), 1, false, false, ""), Reactive{Bool}(Observable(false), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:194"), Reactive{String}(Observable("I.6.2short"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:195"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:196"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:197"), Reactive{Vector{Any}}(Observable(Any[]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:198"), Reactive{Int64}(Observable(3), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:199"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:244"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:201"), Reactive{String}(Observable("0.107947886\n(0.18864927 / x2)\nsin(0.1893478 / x2)\n(sin(sin(x2)) * 0.16715083)\n((0.40731966 / exp(x2)) * x2)\n(sin(0.40796688 / exp(x2)) * x2)\n((0.41762468 / (exp(x2) - -0.1343551)) * x2)\n(sin(0.41762468 / (exp(x2) - -0.1343551)) * x2)\n((x2 * 0.4282072) / exp(x2 - (-0.07223037 / x2)))\n((x1 * sin((0.4155609 / x1) * x2)) / exp(x2))\n((sin(0.40796688) / (exp(x2) - (0.026988234 / (x2 - 1.3586768)))) * x2)\nsin(-0.16377978 / ((cos(sin(x1 - x2)) - x2) + (-0.6528749 / x2)))\n(-0.16377978 / ((cos(((x1 - x2) * 0.6134451) / cos(log(x2))) - x2) + (-0.734312 / x2)))\n(-0.16377978 / ((cos(((x1 - x2) * 0.6134451) / cos(log(sin(x2)))) - x2) + (-0.734312 / x2)))\nsin(-0.16377978 / ((cos(((x1 - x2) * 0.6134451) / cos(log(sin(x2)))) - x2) + (-0.734312 / x2)))"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:202"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:203"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:204"), Reactive{Vector{String}}(Observable(["Symmetry", "Divergency Type I", "Divergency Type II"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:205"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("searchspace" => Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.3670156; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.428876 2.4151974; 1.4341167 2.3352082], Float32[0.09450619, 0.106869176, 0.10663428, 0.12067173, 0.10018355, 0.073887706], 2, 6), "use_physical_constraints" => false, "stateReturn" => false, "const_loss" => nothing, "binary_operators" => ["+", "-", "*", "/"], "npopulations" => 10, "loss" => LossFunctions.L2DistLoss(), "niterations" => 10, "header" => false, "disagreement_measure" => "IBMD", "filename" => "", "unary_operators" => ["sin", "cos", "exp", "log"], "split" => 0.1)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:206"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("var1" => Float32[1.4298258, 2.0418222, 2.5746245, 2.4725006, 2.3150506, 2.5648305, 2.7687669, 2.2937846, 2.9865513, 1.7951349], "label" => Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], "var2" => Float32[2.8521883, 1.4022493, 1.2280266, 2.7550933, 1.6346393, 1.0663712, 1.7648665, 2.8280172, 2.2054586, 2.4997005])), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:207"), Reactive{Vector{Any}}(Observable(Any[]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:210"), Reactive{LossFunctions.L2DistLoss}(Observable(LossFunctions.L2DistLoss()), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:211"), Reactive{String}(Observable("None"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:212"), Reactive{String}(Observable("L2DistLoss"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:213"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:214"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:215"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:216"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:217"), Reactive{Int64}(Observable(100), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:218"), Reactive{Float64}(Observable(0.0), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:219"), Reactive{Float64}(Observable(0.1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:220"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:221"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:222"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:223"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:224"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:225"), Reactive{Vector{Int64}}(Observable([7, 4, 1]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:227"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:228"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:229"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.3670156; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.428876 2.4151974; 1.4341167 2.3352082], Float32[0.09450619, 0.106869176, 0.10663428, 0.12067173, 0.10018355, 0.073887706], 2, 6)), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:230"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:231"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:232"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:233"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:234"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:235"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:236"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:237"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:238"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:239"), Reactive{Vector{Int64}}(Observable([4, 13, 10, 7, 3, 1, 12, 5, 18, 16]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:240"), Reactive{Vector{Float32}}(Observable(Float32[0.079435185, 0.08426643, 0.14628331]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:241"), Reactive{Matrix{Float32}}(Observable(Float32[2.6239996 2.989922; 2.8932168 2.8713315; 2.0327744 1.55841]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:242"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:243"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:245"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:246"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:247"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:269"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:249"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:250"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:251"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:252"), Reactive{Vector{Float64}}(Observable([22.450896805246884, 19.989403684230638, 13.810259835387114]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:253"), Reactive{DataFrames.DataFrame}(Observable(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.624    2.98992  22.4509
+│    2 │ 2.89322  2.87133  19.9894
+│    3 │ 2.03277  1.55841  13.8103), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:254"), Reactive{DataFrames.DataFrame}(Observable(0×4 DataFrame
+│  Row │ var1     var2     label    Status
+│      │ Float32  Float32  Float32  String
+│ ─────┴───────────────────────────────────), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:255"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.624    2.98992  22.4509
+│    2 │ 2.89322  2.87133  19.9894
+│    3 │ 2.03277  1.55841  13.8103, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:256"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(0×0 DataFrame, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:257"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(15×2 DataFrame
+│  Row │ losses       members
+│      │ Float32      String
+│ ─────┼────────────────────────────────────────────────
+│    1 │ 0.00116941   0.107947886
+│    2 │ 0.000394093  (0.18864927 / x2)
+│    3 │ 0.00038946   sin(0.1893478 / x2)
+│    4 │ 0.000303498  (sin(sin(x2)) * 0.16715083)
+│    5 │ 0.00016083   ((0.40731966 / exp(x2)) * x2)
+│    6 │ 0.000160289  (sin(0.40796688 / exp(x2)) * x2)
+│    7 │ 0.000158147  ((0.41762468 / (exp(x2) - -0.134…
+│    8 │ 0.000158119  (sin(0.41762468 / (exp(x2) - -0.…
+│    9 │ 0.000157543  ((x2 * 0.4282072) / exp(x2 - (-0…
+│   10 │ 0.00014352   ((x1 * sin((0.4155609 / x1) * x2…
+│   11 │ 0.000139813  ((sin(0.40796688) / (exp(x2) - (…
+│   12 │ 8.94759e-5   sin(-0.16377978 / ((cos(sin(x1 -…
+│   13 │ 4.71106e-5   (-0.16377978 / ((cos(((x1 - x2) …
+│   14 │ 4.06155e-5   (-0.16377978 / ((cos(((x1 - x2) …
+│   15 │ 3.87629e-5   sin(-0.16377978 / ((cos(((x1 - x…, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:258"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Matrix{Float32}(undef, 0, 0), Float32[], 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:259"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349 2.6239996 2.8932168 2.0327744; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005 2.989922 2.8713315 1.55841], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287, 0.079435185, 0.08426643, 0.14628331], 2, 12)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:260"), Reactive{Vector{PlotlyBase.GenericTrace{Dict{Symbol, Any}}}}(Observable(PlotlyBase.GenericTrace{Dict{Symbol, Any}}[PlotlyBase.GenericTrace{Dict{Symbol, Any}}(Dict{Symbol, Any}(:mode => "markers", :y => Float32[0.18734469, 0.0843727, 0.08292547, 0.24969034, 0.08233671, 0.069866925, 0.09457941, 0.08886842, 0.09260756], :type => "scatter", :x => [19.989403684230638, 11.585841523687122, 11.016823493962875, 22.450896805246884, 11.344027291750535, 9.923718696343713, 13.810259835387114, 13.244970930601994, 12.83949151932029]))]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:264"), Reactive{PlotlyBase.Layout{Dict{Symbol, Any}}}(Observable(PlotlyBase.Layout{Dict{Symbol, Any}}(Dict{Symbol, Any}(:template => PlotlyBase.Template
+│   data: Dict{Symbol, Vector{PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}}}
+│   layout: PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}
+│ , :height => 500, :margin => Dict(:l => 20, :b => 20, :r => 20, :t => 45), :title => "Disagreement Measures: IBMD vs Standard Deviation", :width => 500), PlotlyBase.Subplots
+│   rows: Int64 1
+│   cols: Int64 1
+│   shared_xaxes: Bool false
+│   shared_yaxes: Bool false
+│   start_cell: String "top-left"
+│   subplot_titles: Missing missing
+│   column_widths: Missing missing
+│   row_heights: Missing missing
+│   specs: Array{PlotlyBase.Spec}((1, 1))
+│   insets: Missing missing
+│   column_titles: Missing missing
+│   row_titles: Missing missing
+│   x_title: Missing missing
+│   y_title: Missing missing
+│   grid_ref: Array{Vector{PlotlyBase.SubplotRef}}((1, 1))
+│   has_secondary_y: Bool false
+│   horizontal_spacing: Float64 0.2
+│   vertical_spacing: Float64 0.3
+│   max_width: Float64 1.0
+│   _widths: Array{Float64}((1,)) [1.0]
+│   _heights: Array{Float64}((1,)) [1.0]
+│ )), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:265"), Reactive{DataFrames.DataFrame}(Observable(0×0 DataFrame), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:267"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:268"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(10×3 DataFrame
+│  Row │ label      var1     var2
+│      │ Float32    Float32  Float32
+│ ─────┼─────────────────────────────
+│    1 │ 0.0381563  1.42983  2.85219
+│    2 │ 0.154339   2.04182  1.40225
+│    3 │ 0.138291   2.57462  1.22803
+│    4 │ 0.0867266  2.4725   2.75509
+│    5 │ 0.134303   2.31505  1.63464
+│    6 │ 0.142664   2.56483  1.06637
+│    7 │ 0.117597   2.76877  1.76487
+│    8 │ 0.0813359  2.29378  2.82802
+│    9 │ 0.101701   2.98655  2.20546
+│   10 │ 0.084287   1.79513  2.4997, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:270"), Reactive{Vector{String}}(Observable(["I.11.19", "I.16.6", "I.6.2", "I.6.2a", "I.6.2short"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:271"), Reactive{String}(Observable("Select a file"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:274"), Reactive{String}(Observable(""), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:275"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:276"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:277"), Reactive{Int64}(Observable(1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:278"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:279"), Reactive{String}(Observable("demofiles/I.6.2short"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:280"), Reactive{Vector{Float64}}(Observable(Float64[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:281"), Reactive{Matrix{Float64}}(Observable(Matrix{Float64}(undef, 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:282"))), 1:2), (label = Float32[0.079435185, 0.08426643, 0.14628331], Status = "Accepted")), 0x00000000000083dd)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 09:49:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 09:49:18 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 09:49:21 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 09:50:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:50:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:50:14 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 09:50:14 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 09:50:57 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 09:51:18 MethodError(merge, (Base.Generator{UnitRange{Int64}, Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}(Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}(Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"("ILPXZCIVBFTOSVRDNSCWJLFMMAEHDUDM", LittleDict{Symbol, Int64, Vector{Symbol}, Vector{Int64}}(), Reactive{Bool}(Observable(true), 1, false, false, ""), Reactive{Bool}(Observable(false), 1, false, false, ""), Reactive{Bool}(Observable(false), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:194"), Reactive{String}(Observable("I.6.2short"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:195"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:196"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:197"), Reactive{Vector{Any}}(Observable(Any[]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:198"), Reactive{Int64}(Observable(3), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:199"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:244"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:201"), Reactive{String}(Observable("0.10794024\n(0.1886516 / x2)\n(sin(x2) * 0.14514318)\n(cos(log(x2)) * 0.14514318)\n(exp(-0.8981687 - x2) * x2)\n(sin(exp(-0.89657456 - x2)) * x2)\n(sin(sin(exp(-0.89498675 - x2))) * x2)\n(sin(sin(sin(exp(-0.89498675 - x2)))) * x2)\n(sin(sin(sin(sin(exp(-0.88981164 - x2))))) * x2)\n(-0.14474498 / ((0.90626955 - x2) + ((-0.99586976 / x2) / x2)))\n(sin(exp(((-0.28877726 / x1) - cos(0.71381956)) - x2)) * x2)\n(exp(((-0.8755915 / exp(x1 * x1)) + -0.8755915) - x2) * x2)\n(((-0.006415452 / x1) - (-0.16977994 / ((x2 + x1) - sin(x2)))) * x1)\nsin((-0.006415452 - (-0.16977994 / (((x2 + x1) - sin(x2)) - 0.21079007))) * x1)\n((((-0.006415452 / x2) / 1.3672824) - (-0.16977994 / ((x2 + x1) - sin(x2)))) * x1)\n(exp(sin((-0.8755915 / (exp(cos(x1 - x2)) * x1)) + -0.8755915) - x2) * x2)\n(sin(exp(sin((-0.8755915 / (exp(cos(x1 - x2)) * x1)) + -0.8755915) - x2)) * x2)\nsin((((-0.006415452 / 0.6624208) / x2) - (-0.16977994 / (((x2 + x1) / 1.0459754) - sin(x2)))) * x1)"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:202"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:203"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:204"), Reactive{Vector{String}}(Observable(["Symmetry", "Divergency Type I", "Divergency Type II"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:205"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("searchspace" => Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.3670156; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.0327744 1.55841; 2.428876 2.4151974], Float32[0.09450619, 0.106869176, 0.10663428, 0.12067173, 0.14628331, 0.10018355], 2, 6), "use_physical_constraints" => false, "stateReturn" => false, "const_loss" => nothing, "binary_operators" => ["+", "-", "*", "/"], "npopulations" => 10, "loss" => LossFunctions.L2DistLoss(), "niterations" => 10, "header" => false, "disagreement_measure" => "IBMD", "filename" => "", "unary_operators" => ["sin", "cos", "exp", "log"], "split" => 0.1)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:206"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("var1" => Float32[1.4298258, 2.0418222, 2.5746245, 2.4725006, 2.3150506, 2.5648305, 2.7687669, 2.2937846, 2.9865513, 1.7951349], "label" => Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], "var2" => Float32[2.8521883, 1.4022493, 1.2280266, 2.7550933, 1.6346393, 1.0663712, 1.7648665, 2.8280172, 2.2054586, 2.4997005])), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:207"), Reactive{Vector{Any}}(Observable(Any[]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:210"), Reactive{LossFunctions.L2DistLoss}(Observable(LossFunctions.L2DistLoss()), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:211"), Reactive{String}(Observable("None"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:212"), Reactive{String}(Observable("L2DistLoss"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:213"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:214"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:215"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:216"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:217"), Reactive{Int64}(Observable(100), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:218"), Reactive{Float64}(Observable(0.0), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:219"), Reactive{Float64}(Observable(0.1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:220"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:221"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:222"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:223"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:224"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:225"), Reactive{Vector{Int64}}(Observable([9, 4, 1]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:227"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:228"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:229"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.8318338 2.3670156; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.0327744 1.55841; 2.428876 2.4151974], Float32[0.09450619, 0.106869176, 0.10663428, 0.12067173, 0.14628331, 0.10018355], 2, 6)), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:230"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:231"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:232"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:233"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:234"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:235"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:236"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:237"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:238"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:239"), Reactive{Vector{Int64}}(Observable([4, 13, 10, 7, 3, 1, 12, 5, 18, 16]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:240"), Reactive{Vector{Float32}}(Observable(Float32[0.079435185, 0.08426643, 0.073887706]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:241"), Reactive{Matrix{Float32}}(Observable(Float32[2.6239996 2.989922; 2.8932168 2.8713315; 1.4341167 2.3352082]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:242"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:243"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:245"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:246"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:247"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:269"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:249"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:250"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:251"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:252"), Reactive{Vector{Float64}}(Observable([33.293480280350195, 30.032039143159636, 22.328868301206967]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:253"), Reactive{DataFrames.DataFrame}(Observable(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.624    2.98992  33.2935
+│    2 │ 2.89322  2.87133  30.032
+│    3 │ 1.43412  2.33521  22.3289), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:254"), Reactive{DataFrames.DataFrame}(Observable(0×4 DataFrame
+│  Row │ var1     var2     label    Status
+│      │ Float32  Float32  Float32  String
+│ ─────┴───────────────────────────────────), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:255"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 2.624    2.98992  33.2935
+│    2 │ 2.89322  2.87133  30.032
+│    3 │ 1.43412  2.33521  22.3289, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:256"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(0×0 DataFrame, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:257"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(18×2 DataFrame
+│  Row │ losses       members
+│      │ Float32      String
+│ ─────┼────────────────────────────────────────────────
+│    1 │ 0.00116941   0.10794024
+│    2 │ 0.000394093  (0.1886516 / x2)
+│    3 │ 0.000370958  (sin(x2) * 0.14514318)
+│    4 │ 0.000173871  (cos(log(x2)) * 0.14514318)
+│    5 │ 0.00016083   (exp(-0.8981687 - x2) * x2)
+│    6 │ 0.000160289  (sin(exp(-0.89657456 - x2)) * x2)
+│    7 │ 0.000159781  (sin(sin(exp(-0.89498675 - x2)))…
+│    8 │ 0.000159336  (sin(sin(sin(exp(-0.89498675 - x…
+│    9 │ 0.000158911  (sin(sin(sin(sin(exp(-0.88981164…
+│   10 │ 0.00015692   (-0.14474498 / ((0.90626955 - x2…
+│   11 │ 0.000153377  (sin(exp(((-0.28877726 / x1) - c…
+│   12 │ 0.000133183  (exp(((-0.8755915 / exp(x1 * x1)…
+│   13 │ 0.000113668  (((-0.006415452 / x1) - (-0.1697…
+│   14 │ 0.000110328  sin((-0.006415452 - (-0.16977994…
+│   15 │ 0.000108975  ((((-0.006415452 / x2) / 1.36728…
+│   16 │ 0.000102618  (exp(sin((-0.8755915 / (exp(cos(…
+│   17 │ 0.000102407  (sin(exp(sin((-0.8755915 / (exp(…
+│   18 │ 9.91523e-5   sin((((-0.006415452 / 0.6624208)…, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:258"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Matrix{Float32}(undef, 0, 0), Float32[], 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:259"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349 2.6239996 2.8932168 1.4341167; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005 2.989922 2.8713315 2.3352082], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287, 0.079435185, 0.08426643, 0.073887706], 2, 12)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:260"), Reactive{Vector{PlotlyBase.GenericTrace{Dict{Symbol, Any}}}}(Observable(PlotlyBase.GenericTrace{Dict{Symbol, Any}}[PlotlyBase.GenericTrace{Dict{Symbol, Any}}(Dict{Symbol, Any}(:mode => "markers", :y => Float32[0.1870502, 0.07312658, 0.06285254, 0.23797993, 0.075461656, 0.059981603, 0.059269123, 0.06447741, 0.10441839], :type => "scatter", :x => [30.032039143159636, 15.043868123349966, 12.172100183728617, 33.293480280350195, 15.717578979441896, 11.010079576371936, 12.119867471861653, 12.793649512721458, 22.328868301206967]))]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:264"), Reactive{PlotlyBase.Layout{Dict{Symbol, Any}}}(Observable(PlotlyBase.Layout{Dict{Symbol, Any}}(Dict{Symbol, Any}(:template => PlotlyBase.Template
+│   data: Dict{Symbol, Vector{PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}}}
+│   layout: PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}
+│ , :height => 500, :margin => Dict(:l => 20, :b => 20, :r => 20, :t => 45), :title => "Disagreement Measures: IBMD vs Standard Deviation", :width => 500), PlotlyBase.Subplots
+│   rows: Int64 1
+│   cols: Int64 1
+│   shared_xaxes: Bool false
+│   shared_yaxes: Bool false
+│   start_cell: String "top-left"
+│   subplot_titles: Missing missing
+│   column_widths: Missing missing
+│   row_heights: Missing missing
+│   specs: Array{PlotlyBase.Spec}((1, 1))
+│   insets: Missing missing
+│   column_titles: Missing missing
+│   row_titles: Missing missing
+│   x_title: Missing missing
+│   y_title: Missing missing
+│   grid_ref: Array{Vector{PlotlyBase.SubplotRef}}((1, 1))
+│   has_secondary_y: Bool false
+│   horizontal_spacing: Float64 0.2
+│   vertical_spacing: Float64 0.3
+│   max_width: Float64 1.0
+│   _widths: Array{Float64}((1,)) [1.0]
+│   _heights: Array{Float64}((1,)) [1.0]
+│ )), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:265"), Reactive{DataFrames.DataFrame}(Observable(0×0 DataFrame), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:267"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:268"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(10×3 DataFrame
+│  Row │ label      var1     var2
+│      │ Float32    Float32  Float32
+│ ─────┼─────────────────────────────
+│    1 │ 0.0381563  1.42983  2.85219
+│    2 │ 0.154339   2.04182  1.40225
+│    3 │ 0.138291   2.57462  1.22803
+│    4 │ 0.0867266  2.4725   2.75509
+│    5 │ 0.134303   2.31505  1.63464
+│    6 │ 0.142664   2.56483  1.06637
+│    7 │ 0.117597   2.76877  1.76487
+│    8 │ 0.0813359  2.29378  2.82802
+│    9 │ 0.101701   2.98655  2.20546
+│   10 │ 0.084287   1.79513  2.4997, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:270"), Reactive{Vector{String}}(Observable(["I.11.19", "I.16.6", "I.6.2", "I.6.2a", "I.6.2short"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:271"), Reactive{String}(Observable("Select a file"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:274"), Reactive{String}(Observable(""), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:275"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:276"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:277"), Reactive{Int64}(Observable(1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:278"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:279"), Reactive{String}(Observable("demofiles/I.6.2short"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:280"), Reactive{Vector{Float64}}(Observable(Float64[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:281"), Reactive{Matrix{Float64}}(Observable(Matrix{Float64}(undef, 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:282"))), 1:2), (label = Float32[0.079435185, 0.08426643, 0.073887706], Status = "Accepted")), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 09:53:04 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 09:53:48 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:53:54 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 09:53:58 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 09:53:59 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 09:54:36 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 09:54:39 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:54:40 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:54:40 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:54:40 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 09:54:55 MethodError(merge, (Base.Generator{UnitRange{Int64}, Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}(Main.App.ReactiveDemo.var"#39#56"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}(Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"("ILPXZCIVBFTOSVRDNSCWJLFMMAEHDUDM", LittleDict{Symbol, Int64, Vector{Symbol}, Vector{Int64}}(), Reactive{Bool}(Observable(true), 1, false, false, ""), Reactive{Bool}(Observable(false), 1, false, false, ""), Reactive{Bool}(Observable(false), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:194"), Reactive{String}(Observable("I.6.2short"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:195"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:196"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:197"), Reactive{Vector{Any}}(Observable(Any[]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:198"), Reactive{Int64}(Observable(3), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:199"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:244"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:201"), Reactive{String}(Observable("0.10794079\n(0.18864873 / x2)\nsin(0.18934646 / x2)\n(0.27513266 / (x2 - -0.67605937))\n((0.40731975 / exp(x2)) * x2)\n(sin(0.40796894 / exp(x2)) * x2)\n((0.42173645 / (exp(x2) - -0.165599)) * x2)\n((0.37687224 / (exp(x2) - log(x2))) * x2)\n((0.40796688 / (exp(x2) - (log(cos(cos(x2))) / cos(x1)))) * x2)\n(sin(0.40796688 / (exp(x2) - (log(cos(cos(x2))) / cos(x1)))) * x2)\n((sin(0.40731975 / exp(x2)) / 1.1469804) * (x2 - (-0.15813531 / cos(x2 / x1))))\n((0.41676146 / (exp(x2) + (x1 / (exp(x1) + (log(0.41676146 / 1.6736019) * x2))))) * x2)\n((0.41676146 / (exp(x2) + ((x2 - 0.010442054) / (exp(x1) + (log(0.41676146 / 1.6736019) * x2))))) * x2)"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:202"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:203"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:204"), Reactive{Vector{String}}(Observable(["Symmetry", "Divergency Type I", "Divergency Type II"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:205"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("searchspace" => Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.8932168 2.8713315; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.0327744 1.55841; 2.428876 2.4151974], Float32[0.08426643, 0.106869176, 0.10663428, 0.12067173, 0.14628331, 0.10018355], 2, 6), "use_physical_constraints" => false, "stateReturn" => false, "const_loss" => nothing, "binary_operators" => ["+", "-", "*", "/"], "npopulations" => 10, "loss" => LossFunctions.L2DistLoss(), "niterations" => 10, "header" => false, "disagreement_measure" => "IBMD", "filename" => "", "unary_operators" => ["sin", "cos", "exp", "log"], "split" => 0.1)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:206"), Reactive{Dict{Any, Any}}(Observable(Dict{Any, Any}("var1" => Float32[1.4298258, 2.0418222, 2.5746245, 2.4725006, 2.3150506, 2.5648305, 2.7687669, 2.2937846, 2.9865513, 1.7951349], "label" => Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287], "var2" => Float32[2.8521883, 1.4022493, 1.2280266, 2.7550933, 1.6346393, 1.0663712, 1.7648665, 2.8280172, 2.2054586, 2.4997005])), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:207"), Reactive{Vector{Any}}(Observable(Any[]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:210"), Reactive{LossFunctions.L2DistLoss}(Observable(LossFunctions.L2DistLoss()), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:211"), Reactive{String}(Observable("None"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:212"), Reactive{String}(Observable("L2DistLoss"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:213"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:214"), Reactive{String}(Observable("Make a selection"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:215"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:216"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:217"), Reactive{Int64}(Observable(100), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:218"), Reactive{Float64}(Observable(0.0), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:219"), Reactive{Float64}(Observable(0.1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:220"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:221"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:222"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:223"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:224"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:225"), Reactive{Vector{Int64}}(Observable([9, 4, 2]), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:227"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:228"), Reactive{Int64}(Observable(0), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:229"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[2.8932168 2.8713315; 2.933881 2.0363975; 1.7359866 2.151273; 2.6157825 1.7901571; 2.0327744 1.55841; 2.428876 2.4151974], Float32[0.08426643, 0.106869176, 0.10663428, 0.12067173, 0.14628331, 0.10018355], 2, 6)), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:230"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:231"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:232"), Reactive{Bool}(Observable(true), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:233"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:234"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:235"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:236"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:237"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:238"), Reactive{Int64}(Observable(10), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:239"), Reactive{Vector{Int64}}(Observable([4, 13, 10, 7, 3, 1, 12, 5, 18, 16]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:240"), Reactive{Vector{Float32}}(Observable(Float32[0.073887706, 0.079435185, 0.09450619]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:241"), Reactive{Matrix{Float32}}(Observable(Float32[1.4341167 2.3352082; 2.6239996 2.989922; 1.8318338 2.3670156]), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:242"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:243"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:245"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:246"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:247"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:269"), Reactive{Bool}(Observable(true), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:249"), Reactive{Bool}(Observable(false), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:250"), Reactive{Vector{String}}(Observable(["+", "-", "*", "/"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:251"), Reactive{Vector{String}}(Observable(["sin", "cos", "exp", "log"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:252"), Reactive{Vector{Float64}}(Observable([23.052012753789313, 10.438213650566468, 10.041140327404719]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:253"), Reactive{DataFrames.DataFrame}(Observable(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 1.43412  2.33521  23.052
+│    2 │ 2.624    2.98992  10.4382
+│    3 │ 1.83183  2.36702  10.0411), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:254"), Reactive{DataFrames.DataFrame}(Observable(0×4 DataFrame
+│  Row │ var1     var2     label    Status
+│      │ Float32  Float32  Float32  String
+│ ─────┴───────────────────────────────────), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:255"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(3×3 DataFrame
+│  Row │ var1     var2     score
+│      │ Float32  Float32  Float64
+│ ─────┼───────────────────────────
+│    1 │ 1.43412  2.33521  23.052
+│    2 │ 2.624    2.98992  10.4382
+│    3 │ 1.83183  2.36702  10.0411, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:256"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(0×0 DataFrame, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:257"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(13×2 DataFrame
+│  Row │ losses       members
+│      │ Float32      String
+│ ─────┼────────────────────────────────────────────────
+│    1 │ 0.00116941   0.10794079
+│    2 │ 0.000394093  (0.18864873 / x2)
+│    3 │ 0.00038946   sin(0.18934646 / x2)
+│    4 │ 0.000268948  (0.27513266 / (x2 - -0.67605937))
+│    5 │ 0.00016083   ((0.40731975 / exp(x2)) * x2)
+│    6 │ 0.000160289  (sin(0.40796894 / exp(x2)) * x2)
+│    7 │ 0.000157922  ((0.42173645 / (exp(x2) - -0.165…
+│    8 │ 0.000150951  ((0.37687224 / (exp(x2) - log(x2…
+│    9 │ 0.00012339   ((0.40796688 / (exp(x2) - (log(c…
+│   10 │ 0.000121445  (sin(0.40796688 / (exp(x2) - (lo…
+│   11 │ 0.000120593  ((sin(0.40731975 / exp(x2)) / 1.…
+│   12 │ 0.000113199  ((0.41676146 / (exp(x2) + (x1 / …
+│   13 │ 9.4901e-5    ((0.41676146 / (exp(x2) + ((x2 -…, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:258"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Matrix{Float32}(undef, 0, 0), Float32[], 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:259"), Reactive{Main.SRutils.SRwithConstraints.QBC.MyDataset}(Observable(Main.SRutils.SRwithConstraints.QBC.MyDataset(Float32[1.4298258 2.0418222 2.5746245 2.4725006 2.3150506 2.5648305 2.7687669 2.2937846 2.9865513 1.7951349 1.4341167 2.6239996 1.8318338; 2.8521883 1.4022493 1.2280266 2.7550933 1.6346393 1.0663712 1.7648665 2.8280172 2.2054586 2.4997005 2.3352082 2.989922 2.3670156], Float32[0.038156252, 0.15433906, 0.13829117, 0.08672661, 0.13430348, 0.14266416, 0.11759692, 0.08133586, 0.10170062, 0.084287, 0.073887706, 0.079435185, 0.09450619], 2, 12)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:260"), Reactive{Vector{PlotlyBase.GenericTrace{Dict{Symbol, Any}}}}(Observable(PlotlyBase.GenericTrace{Dict{Symbol, Any}}[PlotlyBase.GenericTrace{Dict{Symbol, Any}}(Dict{Symbol, Any}(:mode => "markers", :y => Float32[0.16601485, 0.0891828, 0.059034485, 0.19509007, 0.08590034, 0.060267832, 0.06272012, 0.08101041, 0.37225935], :type => "scatter", :x => [9.640977750823367, 10.041140327404719, 6.186006443575025, 10.438213650566468, 9.972065005342301, 6.801758462097496, 6.898951073868375, 7.70500091361464, 23.052012753789313]))]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:264"), Reactive{PlotlyBase.Layout{Dict{Symbol, Any}}}(Observable(PlotlyBase.Layout{Dict{Symbol, Any}}(Dict{Symbol, Any}(:template => PlotlyBase.Template
+│   data: Dict{Symbol, Vector{PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}}}
+│   layout: PlotlyBase.PlotlyAttribute{Dict{Symbol, Any}}
+│ , :height => 500, :margin => Dict(:l => 20, :b => 20, :r => 20, :t => 45), :title => "Disagreement Measures: IBMD vs Standard Deviation", :width => 500), PlotlyBase.Subplots
+│   rows: Int64 1
+│   cols: Int64 1
+│   shared_xaxes: Bool false
+│   shared_yaxes: Bool false
+│   start_cell: String "top-left"
+│   subplot_titles: Missing missing
+│   column_widths: Missing missing
+│   row_heights: Missing missing
+│   specs: Array{PlotlyBase.Spec}((1, 1))
+│   insets: Missing missing
+│   column_titles: Missing missing
+│   row_titles: Missing missing
+│   x_title: Missing missing
+│   y_title: Missing missing
+│   grid_ref: Array{Vector{PlotlyBase.SubplotRef}}((1, 1))
+│   has_secondary_y: Bool false
+│   horizontal_spacing: Float64 0.2
+│   vertical_spacing: Float64 0.3
+│   max_width: Float64 1.0
+│   _widths: Array{Float64}((1,)) [1.0]
+│   _heights: Array{Float64}((1,)) [1.0]
+│ )), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:265"), Reactive{DataFrames.DataFrame}(Observable(0×0 DataFrame), 2, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:267"), Reactive{String}(Observable(""), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:268"), Reactive{DataTable{DataFrames.DataFrame}}(Observable(DataTable{DataFrames.DataFrame}(10×3 DataFrame
+│  Row │ label      var1     var2
+│      │ Float32    Float32  Float32
+│ ─────┼─────────────────────────────
+│    1 │ 0.0381563  1.42983  2.85219
+│    2 │ 0.154339   2.04182  1.40225
+│    3 │ 0.138291   2.57462  1.22803
+│    4 │ 0.0867266  2.4725   2.75509
+│    5 │ 0.134303   2.31505  1.63464
+│    6 │ 0.142664   2.56483  1.06637
+│    7 │ 0.117597   2.76877  1.76487
+│    8 │ 0.0813359  2.29378  2.82802
+│    9 │ 0.101701   2.98655  2.20546
+│   10 │ 0.084287   1.79513  2.4997, DataTableOptions(false, "ID", nothing, Dict{Union{Regex, String}, Dict{Symbol, Any}}()))), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:270"), Reactive{Vector{String}}(Observable(["I.11.19", "I.16.6", "I.6.2", "I.6.2a", "I.6.2short"]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:271"), Reactive{String}(Observable("Select a file"), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:274"), Reactive{String}(Observable(""), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:275"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:276"), Reactive{Bool}(Observable(false), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:277"), Reactive{Int64}(Observable(1), 1, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:278"), Reactive{Vector{Any}}(Observable(Any[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:279"), Reactive{String}(Observable("demofiles/I.6.2short"), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:280"), Reactive{Vector{Float64}}(Observable(Float64[]), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:281"), Reactive{Matrix{Float64}}(Observable(Matrix{Float64}(undef, 0, 0)), 4, false, false, "/Users/jorgemedina/Desktop/SRapp/ALdemo/demo.jl:282"))), 1:2), (label = Float32[0.073887706, 0.079435185, 0.09450619], Status = "Accepted")), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 10:00:24 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:00:27 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:00:33 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:00:36 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 10:01:21 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:01:28 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:01:33 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 10:01:34 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 10:02:22 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:02:29 UndefVarError(:len)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 10:02:41 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:02:43 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:02:44 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 10:03:26 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:03:32 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:03:36 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 10:03:36 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 10:04:16 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:04:19 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:04:19 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:04:19 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:04:24 MethodError(Core.var"#Type##kw"(), ((label = Float32[0.079435185, 0.08426643, 0.073887706], Status = ["Accepted", "Accepted", "Accepted"]), DataFrames.DataFrame, :var1 => Float32[2.6239996, 2.8932168, 1.4341167], :var2 => Float32[2.989922, 2.8713315, 2.3352082]), 0xffffffffffffffff)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 10:07:00 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:07:02 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 10:07:03 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:07:44 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:07:50 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:07:53 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 10:07:53 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 10:08:32 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:08:35 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:08:35 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:08:36 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:08:36 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:08:36 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:08:49 MethodError(merge, (3×4 DataFrame
+│  Row │ var1     var2     label      Status
+│      │ Float32  Float32  Float32    String
+│ ─────┼───────────────────────────────────────
+│    1 │ 2.624    2.98992  0.0794352  Accepted
+│    2 │ 1.43412  2.33521  0.0738877  Accepted
+│    3 │ 2.89322  2.87133  0.0842664  Accepted, (label = Float32[0.079435185, 0.073887706, 0.08426643], Status = "Accepted")), 0x00000000000083dc)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 10:10:35 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:10:38 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:10:44 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 10:11:26 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:11:32 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:11:37 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 10:11:38 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 10:12:16 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:12:20 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:12:20 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:12:20 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-14 10:12:21 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:12:21 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:12:25 ErrorException("type Array has no field Status")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 10:13:11 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:13:14 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 10:13:15 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:13:58 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:14:04 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:15:12 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 10:15:13 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 10:15:54 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Info: 2024-05-14 10:17:40 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:17:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:17:50 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 10:17:51 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 10:18:28 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:18:32 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:18:48 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:18:48 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:18:48 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:18:48 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:18:49 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:23:21 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:23:22 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:23:22 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:23:22 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:23:22 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:23:22 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:23:22 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 10:28:14 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:28:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:28:34 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:28:37 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 10:29:20 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:29:26 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:29:43 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 10:29:44 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 10:30:21 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:30:25 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:30:43 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:30:43 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:30:43 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:30:43 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-14 10:30:54 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 10:30:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 10:30:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 10:31:24 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:31:26 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:31:31 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 10:32:14 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:32:19 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 10:50:17 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 10:50:20 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:00:43 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:00:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:01:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:01:45 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:04:32 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:04:35 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:07:40 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:07:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:08:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:08:01 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:08:48 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:08:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:08:51 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:08:52 UndefVarError(:combinations)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 11:11:14 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:11:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:11:22 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 11:12:07 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:12:13 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:12:16 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:12:17 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:12:58 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:13:01 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:13:02 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:13:02 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-14 11:13:02 Terminated early due to NaN in Hessian.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:102
+┌ Warning: 2024-05-14 11:13:03 UndefVarError(:combinations)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 11:13:25 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:13:28 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:13:29 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 11:14:12 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:14:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:14:23 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:14:24 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:15:11 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:15:14 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:15:14 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:15:14 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:15:14 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:15:14 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 11:24:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:24:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:24:20 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 11:25:06 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:25:12 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:25:16 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:25:17 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:25:57 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:26:00 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:26:01 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 11:34:04 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:34:08 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:35:14 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:35:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:35:30 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 11:36:14 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:36:20 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:36:25 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:36:26 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:37:04 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:37:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:37:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:37:08 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 11:38:11 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:38:14 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:38:19 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 11:39:03 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:39:09 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:39:14 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:39:15 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:39:55 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:39:57 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:39:59 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:39:59 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 11:50:46 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:50:54 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:51:13 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 11:51:59 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:52:06 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:52:10 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:52:11 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:52:50 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:52:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:52:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:52:53 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 11:55:24 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:55:27 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 11:56:07 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 11:56:50 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:56:57 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 11:57:01 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 11:57:02 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 11:57:51 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 11:57:54 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 11:57:55 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 12:02:30 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 12:02:33 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 12:02:33 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 12:03:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 12:03:24 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 12:03:29 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 12:03:30 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 12:04:19 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 12:04:25 UndefVarError(:df)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 12:04:40 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 12:04:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Warning: 2024-05-14 12:04:57 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 12:04:59 UndefVarError(:df)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-14 12:05:04 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 12:05:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 12:05:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 12:05:54 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 12:05:55 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 12:06:30 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 12:06:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:33 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:34 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:34 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:34 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:34 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-14 12:06:34 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Info: 2024-05-14 12:07:42 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 12:07:44 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-14 12:07:46 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-14 12:08:28 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 12:08:34 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-14 12:08:40 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-14 12:08:40 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-14 12:09:21 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-14 12:09:25 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98

@@ -1,0 +1,287 @@
+┌ Info: 2024-05-15 14:21:18 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 14:21:25 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 14:21:29 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-15 14:21:30 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-15 14:30:14 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Error: 2024-05-15 14:30:15 UndefVarError: q__numeric not defined
+│ Stacktrace:
+│   [1] (::Main.App.ReactiveDemo.var"#226#278")()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/fd1fcb4fcdd88f3934f4afcd5632437bed97bec5.jl:140
+│   [2] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│   [3] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│   [4] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│   [5] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol, Symbol}, NamedTuple{(:class, :style, :htmlsourceindent), Tuple{String, String, String}}})
+│     @ Genie.Renderer.Html ./none:2
+│   [6] (::Main.App.ReactiveDemo.var"#213#265")()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/fd1fcb4fcdd88f3934f4afcd5632437bed97bec5.jl:65
+│   [7] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│   [8] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│   [9] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│  [10] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol}, NamedTuple{(:class, :htmlsourceindent), Tuple{String, String}}})
+│     @ Genie.Renderer.Html ./none:2
+│  [11] (::Main.App.ReactiveDemo.var"#211#263")()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/fd1fcb4fcdd88f3934f4afcd5632437bed97bec5.jl:56
+│  [12] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [13] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [14] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│  [15] q__expansion__item(::Function; attrs::Base.Pairs{Symbol, String, NTuple{6, Symbol}, NamedTuple{(:label, :icon, :style, :htmlsourceindent, Symbol("dense-toggle"), Symbol("expand-separator")), NTuple{6, String}}})
+│     @ StippleUI.ExpansionItems ./none:2
+│  [16] func_fd1fcb4fcdd88f3934f4afcd5632437bed97bec5(; context::Module, model::Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337")
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/fd1fcb4fcdd88f3934f4afcd5632437bed97bec5.jl:5
+│  [17] func_fd1fcb4fcdd88f3934f4afcd5632437bed97bec5()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/fd1fcb4fcdd88f3934f4afcd5632437bed97bec5.jl:3
+│  [18] (::Main.App.ReactiveDemo.var"#177#190"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"})()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:55
+│  [19] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [20] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [21] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│  [22] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol}, NamedTuple{(:class, :htmlsourceindent), Tuple{String, String}}})
+│     @ Genie.Renderer.Html ./none:2
+│  [23] (::Main.App.ReactiveDemo.var"#176#189"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"})()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:54
+│  [24] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [25] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [26] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│  [27] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol}, NamedTuple{(:class, :htmlsourceindent), Tuple{String, String}}})
+│     @ Genie.Renderer.Html ./none:2
+│  [28] (::Main.App.ReactiveDemo.var"#175#188"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"})()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:53
+│  [29] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [30] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [31] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│  [32] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol}, NamedTuple{(:class, :htmlsourceindent), Tuple{String, String}}})
+│     @ Genie.Renderer.Html ./none:2
+│  [33] (::Main.App.ReactiveDemo.var"#174#187"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"})()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:52
+│  [34] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [35] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [36] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│  [37] #body#79
+│     @ ./none:2 [inlined]
+│  [38] (::Main.App.ReactiveDemo.var"#170#183"{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"})()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:9
+│  [39] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [40] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [41] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:137
+│  [42] #html#67
+│     @ ./none:2 [inlined]
+│  [43] func_9e17702de869ea43b9350e2b8a2cf5600f42b500(; context::Module, model::Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337")
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:5
+│  [44] func_9e17702de869ea43b9350e2b8a2cf5600f42b500()
+│     @ Main.App.ReactiveDemo /var/folders/cm/sn2bpgln3zdc0lh8s2384hr40000gn/T/jl_genie_build_RJs0MM/GenieViews/ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:3
+│  [45] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [46] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [47] WebRenderable(::Function)
+│     @ Genie.Renderer ~/.julia/packages/Genie/3gPCR/src/Renderer.jl:163
+│  [48] |>
+│     @ ./operators.jl:911 [inlined]
+│  [49] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.PosixPath; layout::String, context::Module, vars::Base.Pairs{Symbol, Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.ReactiveDemo.var"##Main.App.ReactiveDemo_ReactiveModel!#337"}}})
+│     @ Genie.Renderer.Html ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:486
+│  [50] #html#33
+│     @ ~/.julia/packages/Genie/3gPCR/src/renderers/Html.jl:637 [inlined]
+│  [51] (::Stipple.Pages.var"#5#6"{FilePathsBase.PosixPath, Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}})()
+│     @ Stipple.Pages ~/.julia/packages/Stipple/yMVKL/src/Pages.jl:65
+│  [52] run_route(r::Genie.Router.Route)
+│     @ Genie.Router ~/.julia/packages/Genie/3gPCR/src/Router.jl:535
+│  [53] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Router ~/.julia/packages/Genie/3gPCR/src/Router.jl:171
+│  [54] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:278
+│  [55] (::Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/macros.jl:123
+│  [56] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [57] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [58] #153
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:425 [inlined]
+│  [59] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#29#30"{HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/process_messages.jl:70
+│  [60] #remotecall_fetch#158
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:450 [inlined]
+│  [61] remotecall_fetch
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:449 [inlined]
+│  [62] #remotecall_fetch#162
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:492 [inlined]
+│  [63] remotecall_fetch
+│     @ /Applications/Julia-1.8.app/Contents/Resources/julia/share/julia/stdlib/v1.8/Distributed/src/remotecall.jl:492 [inlined]
+│  [64] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response)
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:305
+│  [65] setup_http_listener
+│     @ ~/.julia/packages/Genie/3gPCR/src/Server.jl:304 [inlined]
+│  [66] (::HTTP.Handlers.var"#1#2"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ HTTP.Handlers ~/.julia/packages/HTTP/SN7VW/src/Handlers.jl:58
+│  [67] setup_http_streamer(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:294
+│  [68] (::Genie.Server.var"#7#14")(http::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server ~/.julia/packages/Genie/3gPCR/src/Server.jl:121
+│  [69] #invokelatest#2
+│     @ ./essentials.jl:729 [inlined]
+│  [70] invokelatest
+│     @ ./essentials.jl:726 [inlined]
+│  [71] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers ~/.julia/packages/HTTP/SN7VW/src/Servers.jl:450
+│ 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:317
+┌ Info: 2024-05-15 14:30:20 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:36:59 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:37:04 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:37:05 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-15 14:37:49 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 14:37:55 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 14:38:17 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-15 14:38:18 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-15 14:40:18 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:40:26 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:41:18 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:41:23 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:44:33 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:44:39 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:46:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:46:07 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:52:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 14:52:07 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:02:49 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:02:54 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:06:07 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-15 15:06:50 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:06:56 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:06:59 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-15 15:06:59 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-15 15:14:13 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:14:27 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:15:02 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:18:04 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:20:52 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:24:32 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-15 15:25:15 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:25:21 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:25:25 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-15 15:25:26 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Info: 2024-05-15 15:27:38 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:43:01 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:46:16 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:46:33 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Warning: 2024-05-15 15:49:33 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-15 15:49:34 ArgumentError("range must be non-empty")
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-15 15:51:26 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:51:28 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-15 15:51:30 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-15 15:52:15 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:52:22 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:52:41 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-15 15:52:41 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-15 15:53:34 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-15 15:53:37 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-15 15:53:39 MethodError(iterate, (nothing,), 0x00000000000083c5)
+└ @ Stipple /Users/jorgemedina/.julia/packages/Stipple/yMVKL/src/Stipple.jl:815
+┌ Info: 2024-05-15 15:54:59 Autoreloading
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:22
+┌ Info: 2024-05-15 15:55:02 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
+┌ Info: 2024-05-15 15:55:46 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:55:52 Watching ["/Users/jorgemedina/Desktop/SRapp/ALdemo"]
+└ @ GenieAutoReload /Users/jorgemedina/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
+┌ Info: 2024-05-15 15:56:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server /Users/jorgemedina/.julia/packages/Genie/3gPCR/src/Server.jl:161
+┌ Info: 2024-05-15 15:56:50 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:367
+┌ Warning: 2024-05-15 15:57:37 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-15 15:57:41 Terminated early due to NaN in gradient.
+└ @ Optim /Users/jorgemedina/.julia/packages/Optim/V8ZEC/src/multivariate/optimize/optimize.jl:98
+┌ Warning: 2024-05-15 15:58:11 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Warning: 2024-05-15 15:58:41 You are using multithreading mode, but only one thread is available. Try starting julia with `--threads=auto`.
+└ @ SymbolicRegression /Users/jorgemedina/.julia/packages/SymbolicRegression/ZxE7E/src/SymbolicRegression.jl:411
+┌ Info: 2024-05-15 16:31:16 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/jorgemedina/.julia/packages/HTTP/SN7VW/src/Servers.jl:394
