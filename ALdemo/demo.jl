@@ -124,7 +124,7 @@ function mapOps(binlist::Vector{String}, unalist::Vector{String})
                 ("sqrt" => sqrt),
                 ("abs" => abs),
                 ("sigmoid" => sigmoid),
-                ("nested_exp" => nested_exp])
+                ("nested_exp" => nested_exp)])
     binary_ops = [map_bin[i] for i in binlist]
     unary_ops = [map_un[i] for i in unalist]
     return binary_ops, unary_ops
