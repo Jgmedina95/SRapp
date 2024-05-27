@@ -31,21 +31,39 @@ The active learning approach is facilitated through  query by committee (QBC), w
   <div class = row style="font-weight: normal;font-size: 0.9em; "">
     <div class="st-col col-12 col-sm st-module" style="text-align: left;font-size: 0.9em; ">
         <h4> Symbolic Regression Options </h4>
-        <p></p>
+        
+        <p>Unary and Binary Operators       
+          <q-icon name ="help"> <q-tooltip>sigmoid = 1/1+exp(-x); nested_exp = exp(exp(x))</q-tooltip></q-icon>        
+        </p>
         <q-select v-model="demo_bin_op1" :options="demo_bin_ops" :model-value="demo_bin_op1" :multiple="demo_use_multiple"></q-select>
         <q-select v-model="demo_un_op1" :options="demo_un_ops" :model-value="demo_un_op1" :multiple="demo_use_multiple"></q-select>
-        <p>Number of populations {{demo_n_populations}}</p>
+        <p>Number of populations {{demo_n_populations}}   <q-icon name ="help"> 
+                                                            <q-tooltip>Number of different Populations that will go through the evolutionary algorithm. <br>
+                                                            The higher the better the result, but the slower the optimization</q-tooltip>
+                                                          </q-icon> 
+        </p>
         <q-slider v-model="demo_n_populations" :min="5" :max="100"></q-slider>
-        <p>Number of iterations {{demo_n_iterations}}</p>
+        <p>Number of iterations {{demo_n_iterations}}
+          <q-icon name ="help"> 
+            <q-tooltip>Number of iterations that the evolutionary algorithm will go through. <b>
+            The higher the better the result, but the slower the optimization</q-tooltip>
+          </q-icon>
+        </p>
         <q-slider v-model="demo_n_iterations"></q-slider>
         <p>Loss</p>
         <q-radio v-model="demo_loss" val="L2DistLoss" label="L2DistLoss" />
         <q-radio v-model="demo_loss" val="L1DistLoss" label="L1DistLoss" />
         <p>Physical Constraint Loss</p>
         <q-toggle v-model="demo_use_constrained_loss" label="Use Physical Loss"></q-toggle>
-        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="symmetry" label="Symmetry Between Variables" />
-        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="divergencyI" label="Variable with divergency" />
-        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="divergencyII" label="Variables with divergency |a-b|" />
+        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="symmetry" label="Symmetry Between Variables">  <q-icon name ="help"> 
+          <q-tooltip>f(x1,x2) = f(x2,x1)</q-tooltip>
+        </q-icon></q-radio>
+        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="divergencyI" label="Variable with divergency"> <q-icon name ="help"> 
+          <q-tooltip>lim (x → c) f(x) → ∞</q-tooltip>
+        </q-icon></q-radio>
+        <q-radio v-model="demo_constrained_loss" v-if="demo_use_constrained_loss" val="divergencyII" label="Variables with divergency |a-b|" > <q-icon name ="help"> 
+          <q-tooltip>lim (|x1-x2| → 0) f(x) → ∞</q-tooltip>
+        </q-icon></q-radio>
             <div v-if="demo_define_symmetry_vars"  style="max-width: 200px">
               <q-select
                 v-model="demo_selectedFirst"
@@ -87,13 +105,19 @@ The active learning approach is facilitated through  query by committee (QBC), w
                 ></q-select>
               </div>
               <div v-if="demo_use_constrained_loss">
-                <p>Split between Constrained and Non-constrained Evolution: {{demo_split*100}}%</p>
+                <p>Split between Constrained and Non-constrained Evolution: {{demo_split*100}}% <q-icon name ="help"> 
+                  <q-tooltip>First {{demo_split*100}}% of iterations will be under the constrained loss, the rest will go unconstrained</q-tooltip>
+                </q-icon></q-radio></p>
                 <q-slider v-model="demo_split" :step="0.1" :min="0" :max="1"></q-slider>
             </div>
     </div>
     <div class="st-col col-12 col-sm st-module" style="text-align: left;font-size: 0.9em;">
       <h4> Active Learning Options </h4>
-      <p>Number of samples per batch:  {{demo_batch_number}}</p>
+      <p>Number of samples per batch:  {{demo_batch_number}}
+        <q-icon name ="help"> 
+          <q-tooltip>  {{demo_batch_number}} points/experiments will be suggested based on the unsampled dataset</q-tooltip>
+        </q-icon></q-radio>
+      </p>
       <q-input  style="max-width: 200px;"
       v-model.number="demo_batch_number"
       type="number"
@@ -101,7 +125,11 @@ The active learning approach is facilitated through  query by committee (QBC), w
       :max="25"
       :rules = "[typeof value === 'number'|| 'Please enter a number']"
     ></q-input>
-      <p>Disagreement Measurement</p>
+      <p>Disagreement Measurement         <q-icon name ="help"> 
+        <q-tooltip>  'IBMD' is based on Costa Santos et al. (see paper) <br>
+                    'std' is the standard deviation of all predictions divided by the corresponding mean</q-tooltip>
+      </q-icon></q-radio>
+    </p>
       <q-radio v-model="demo_disagreement_measurement" val="IBMD" label="IBMD" />
       <q-radio v-model="demo_disagreement_measurement" val="std" label="Standard Deviation" />
     

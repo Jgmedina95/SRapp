@@ -122,7 +122,9 @@ function mapOps(binlist::Vector{String}, unalist::Vector{String})
                 ("exp" => exp),
                 ("log" => log),
                 ("sqrt" => sqrt),
-                ("abs" => abs)])
+                ("abs" => abs),
+                ("sigmoid" => sigmoid),
+                ("nested_exp" => nested_exp])
     binary_ops = [map_bin[i] for i in binlist]
     unary_ops = [map_un[i] for i in unalist]
     return binary_ops, unary_ops
@@ -196,6 +198,13 @@ function find_point_index(matrix::Matrix{Float32}, point::Vector{Float32})::Unio
     end
     return nothing  # Return nothing if no match is found
 end
+function sigmoid(x)
+    return 1 / (1 + exp(-x))
+end
+function nested_exp(x)
+    return exp(exp(x))
+end
+
 @app begin
 
     #############DEMO Options#############
@@ -253,7 +262,7 @@ end
     @in demo_reject_new_point           = false
     @in demo_rejecting_new_point        = false
     @in demo_bin_op1                    = ["+", "-", "*", "/"]
-    @in demo_un_op1                     = ["sin", "cos", "exp", "log"]
+    @in demo_un_op1                     = ["sin", "cos", "exp", "log","sigmoid","nested_exp"]
     @in demo_disagreement_measurement   = "IBMD"
     @in demo_n_populations              = 10
     @in demo_n_iterations               = 10
@@ -268,7 +277,7 @@ end
     @out demo_see_new_point             = false
     @out demo_remaining_pool_created    = false
     @out demo_bin_ops                   = ["+", "-", "*", "/"]
-    @out demo_un_ops                    = ["sin", "cos", "exp", "log"]
+    @out demo_un_ops                    = ["sin", "cos", "exp", "log","sigmoid","nested_exp"]
     @out demo_d_m_ops                   = ["IBMD", "standard deviation"]
     @out demo_maxscore                  = [0.0]
     @out demo_new_point_df              = DataFrame()
