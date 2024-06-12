@@ -30,6 +30,7 @@ end
 
 function load_data(file_number::AbstractString; delim::AbstractString=" ", header::Bool=false)
     file_name = "$(file_number)"
+
     data = CSV.File(file_name; delim=delim, ignorerepeated=true, header=header) |> DataFrame
 
     # Convert the DataFrame to a matrix

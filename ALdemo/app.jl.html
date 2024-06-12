@@ -1,12 +1,12 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<!--     <q-uploader
-      url="http://localhost:2345/"
+    <q-uploader
+      url="http://localhost:8000/app"
       label="Upload CSV file"
       color="purple"
       style="max-width: 300px;"
-    ></q-uploader> -->
+    ></q-uploader>
   <!--   <a href="$(linkto(:get_demo))">See Demo for Active Learning with QBC </a> -->
     <a href="$(linkto(:get_demo))" style="display: inline-block; padding: 8px 12px; background-color: #007BFF; color: white; text-decoration: none; font-weight: bold; border-radius: 5px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='#0056b3'; this.style.transform='scale(1.1)';" onmouseout="this.style.backgroundColor='#007BFF'; this.style.transform='scale(1.0)';">See Demo for Active Learning with QBC</a>
 
@@ -30,14 +30,11 @@ The active learning approach is facilitated through  query by committee (QBC), w
 </q-expansion-item>
 </q-card>
 </div>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #f0f0f0; font-family: Arial, sans-serif;">
-    <div style="background-color: #ff0000; color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 600px; font-size: 20px;">
-        Page under construction, please visit the <a href="$(linkto(:get_demo))" style="color: white; text-decoration: underline;">Demo</a> in the meantime.
-    </div>
-</div>
+<div class="q-pa-lg">
+    <q-radio v-model="group"  val="v1" label="Testing Mode" />
+    <q-radio v-model="group"  val="v2" label="Exploring Mode" />
 
-    <!-- 
-
+  </div>
 <q-expansion-item  dense-toggle="" expand-separator="" icon="view_module" label="Whats your dataset?"  style="text-align: center; padding: 0 4cm;">
     <div>
     <q-select color="purple-12" v-model="yourfile" :options="upfiles" label="Uploaded datasets" :model-value="yourfile">
@@ -52,7 +49,8 @@ The active learning approach is facilitated through  query by committee (QBC), w
     </div> 
 
 </q-expansion-item>
-<q-expansion-item dense-toggle="" expand-separator="" icon="view_module" label="Defining Search Space" style="text-align: center; padding: 0 4cm;" >
+
+<q-expansion-item v-if="version_2" dense-toggle="" expand-separator="" icon="view_module" label="Defining Search Space" style="text-align: center; padding: 0 4cm;" >
     <h2>Defining Search Space</h2>
     <h5>Select Number of Variables</h5>
     <div class="q-pa-md">
@@ -230,4 +228,3 @@ The active learning approach is facilitated through  query by committee (QBC), w
         <q-table  v-if="see_equations" bordered :columns="results_table.columns" v-model="results_table" :data="results_table.data" row-key="__id" class="results-table"></q-table>
     </div>
 </div>
- -->

@@ -256,7 +256,7 @@ end
     @private demo_add_new_point_tb      = 0
     @private demo_update_current_data   = 0
     @private demo_remaining_data        = MyDataset( Matrix{Float32}(undef, 0, 0), Vector{Float32}(undef, 0), 0, 0)
-    @in train                           = false
+    @in demo_train                           = false
     @in demo_add_new_point              = false
     @in demo_adding_new_point           = false
     @in demo_reject_new_point           = false
@@ -538,7 +538,7 @@ end
     #    end
 #
     #end
-    @onbutton train begin
+    @onbutton demo_train begin
         @show "starting training"
         demo_training        = true
         (demo_members ,
@@ -567,7 +567,7 @@ end
         demo_new_point_table = DataTable(demo_new_point_df)
         demo_see_new_point   = true        
         demo_training        = false
-        train = false
+        demo_train = false
     end
 
     @onbutton demo_add_new_point begin

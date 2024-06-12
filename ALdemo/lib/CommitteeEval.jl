@@ -10,9 +10,7 @@ using InvertedIndices
 using .QBC
 export committee_evaluation, AppendnewData, process_dominating
 
-#function IBMD(x::AbstractArray{T},y::AbstractArray{T}) where T<:Real
-#    return log2.((abs.(x.-y)./abs.(max.(x,y))).+1)
-#end
+
 function process_dominating(searchspace, dominating, options_wo_const, disagreement_measure)
     losses = [member.loss for member in dominating]
     new_point, new_index = Committee.committee_evaluation(searchspace, dominating, options_wo_const, disagreement_measure)

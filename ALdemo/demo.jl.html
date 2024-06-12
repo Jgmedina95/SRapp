@@ -1,4 +1,4 @@
-<a href="$(linkto(:get_))">Foo</a>
+<a href="$(linkto(:get_app))">Foo</a>
 
 <q-card dark bordered style="width: 350px;">
     <q-badge color="blue">
@@ -217,7 +217,7 @@ The active learning approach is facilitated through  query by committee (QBC), w
 </q-expansion-item>
 <div class="row q-gutter-md q-px-md flex justify-center">
 <q-btn label="Train the model!" 
-        v-on:click="train=true" 
+        v-on:click="demo_train=true" 
         :loading="demo_training"
         :disable="!demo_block_options">
       <q-tooltip v-if="!demo_block_options">
